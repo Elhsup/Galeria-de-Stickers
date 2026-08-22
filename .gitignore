@@ -1,3 +1,32 @@
+# Ignorar originales privados
+raw/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / build
+build/
+dist/
+*.egg-info/
+
+# Entornos y secretos
+.env
+.env.*
+
+# Editores y OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
