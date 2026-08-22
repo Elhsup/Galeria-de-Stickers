@@ -19,6 +19,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png",
       "registrado_en": "2026-08-22T17:34:12.839736"
+    },
+    {
+      "id": "pepe-cartel-simp",
+      "titulo": "pepe cartel simp",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/pepe-cartel-simp.gif",
+      "alt": "pepe agarrando un cartel",
+      "tags": [
+        "pepe",
+        "cartel",
+        "simp",
+        "meme",
+        "gif"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif",
+      "registrado_en": "2026-08-22T18:35:27.188748"
     }
   ]
 }
