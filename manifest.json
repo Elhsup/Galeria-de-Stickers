@@ -1,0 +1,24 @@
+{
+  "generado_at": "2026-08-22T17:34:12.839703",
+  "items": [
+    {
+      "id": "pepe-tonto",
+      "titulo": "Pepe_ con cara tonta",
+      "categoria": "animados/memes-gif",
+      "animado": false,
+      "archivo": "imagenes/animados/memes-gif/pepe-tonto.png",
+      "alt": "gif pepe cara tonta",
+      "tags": [
+        "pepe",
+        "tonto",
+        "derp",
+        "gif",
+        "meme",
+        "animado",
+        "risa"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png",
+      "registrado_en": "2026-08-22T17:34:12.839736"
+    }
+  ]
+}
