@@ -16,7 +16,7 @@ Hemos preparado códigos listos para copiar y pegar en tres tamaños distintos (
     *Expresiones, caras y reacciones estáticas para responder hilos.*
 
 ### 🎬 Emojis Animados (GIFs con Movimiento)
-*   **[🐸 Memes Animados (GIFs)](animados/memes-gif.md)** (1 emojis)
+*   **[🐸 Memes Animados (GIFs)](animados/memes-gif.md)** (2 emojis)
     *Memes icónicos de internet con movimiento y GIFs divertidos.*
 *   **[🎉 Reacciones Animadas](animados/reacciones-gif.md)** (0 emojis)
     *Expresiones, celebraciones e interacciones con movimiento.*
@@ -24,7 +24,7 @@ Hemos preparado códigos listos para copiar y pegar en tres tamaños distintos (
 ---
 
 ## 📊 Resumen del Proyecto
-*   **Total de Emojis Registrados:** 1
-*   **Última actualización:** 22/08/2026 18:25:11
+*   **Total de Emojis Registrados:** 2
+*   **Última actualización:** 22/08/2026 19:07:26
 
 [🏠 Volver al Inicio del Repositorio](../README.md)
