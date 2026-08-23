@@ -17,6 +17,24 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png",
       "registrado_en": "2026-08-22T22:49:18.989081"
+    },
+    {
+      "id": "pepe-pensando",
+      "titulo": "pepe-pensando-duda",
+      "categoria": "animados/reacciones-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/reacciones-gif/pepe-pensando.png",
+      "alt": "pepe-thin",
+      "tags": [
+        "pepe",
+        "pensando",
+        "thin",
+        "curioso",
+        "hmmm",
+        "gif"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png",
+      "registrado_en": "2026-08-22T22:53:06.355100"
     }
   ]
 }
