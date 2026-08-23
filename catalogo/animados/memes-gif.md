@@ -2,7 +2,7 @@
 
 Memes con movimiento.
 
-Actualmente hay **2** emojis.
+Actualmente hay **3** emojis.
 
 ---
 
@@ -58,6 +58,34 @@ Actualmente hay **2** emojis.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="100" alt="pepe agarrando un cartel">
+```
+
+---
+
+### 🖼️ pepe-agitando-cartel-noob (`pepe-moviendo-cartel-noob`)
+
+**Etiquetas:** `pepe`, `noob`, `cartel`, `meme`, `gif`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="50" alt="pepe con los ojos grandes cartel noob"> |
+
+**Tamaño 30px (Mini para texto):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="30" alt="pepe con los ojos grandes cartel noob">
+```
+
+**Tamaño 50px (Medio para listas):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="50" alt="pepe con los ojos grandes cartel noob">
+```
+
+**Tamaño 100px (Grande para destacar):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="100" alt="pepe con los ojos grandes cartel noob">
 ```
 
 ---
