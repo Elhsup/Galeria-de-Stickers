@@ -1,125 +1,22 @@
 {
-  "generado_at": "2026-08-22T17:34:12.839703",
   "items": [
     {
-      "id": "pepe-tonto",
-      "titulo": "Pepe_ con cara tonta",
-      "categoria": "animados/memes-gif",
-      "animado": false,
-      "archivo": "imagenes/animados/memes-gif/pepe-tonto.png",
-      "alt": "gif pepe cara tonta",
-      "tags": [
-        "pepe",
-        "tonto",
-        "derp",
-        "gif",
-        "meme",
-        "animado",
-        "risa"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png",
-      "registrado_en": "2026-08-22T17:34:12.839736"
-    },
-    {
-      "id": "pepe-cartel-simp",
-      "titulo": "pepe cartel simp",
+      "id": "pepe-arma",
+      "titulo": "pepe-apuntando-arma",
       "categoria": "animados/memes-gif",
       "animado": true,
-      "archivo": "imagenes/animados/memes-gif/pepe-cartel-simp.gif",
-      "alt": "pepe agarrando un cartel",
+      "archivo": "imagenes/animados/memes-gif/pepe-arma.png",
+      "alt": "pepe-gun",
       "tags": [
         "pepe",
-        "cartel",
-        "simp",
-        "meme",
+        "arma",
+        "gun",
+        "rana",
+        "disparo",
         "gif"
       ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif",
-      "registrado_en": "2026-08-22T18:35:27.188748"
-    },
-    {
-      "id": "gato-sonriente",
-      "titulo": "Gato feliz",
-      "categoria": "estaticos/reacciones",
-      "animado": false,
-      "archivo": "imagenes/estaticos/reacciones/gato-sonriente.png",
-      "alt": "Gato con zoom sonriendo",
-      "tags": [
-        "gato",
-        "feliz",
-        "divertido",
-        "zoom"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/gato-sonriente.png",
-      "registrado_en": "2026-08-22T20:08:18.118537"
-    },
-    {
-      "id": "pepe-llorando",
-      "titulo": "Pepe llorando",
-      "categoria": "estaticos/reacciones",
-      "animado": false,
-      "archivo": "imagenes/estaticos/reacciones/pepe-llorando.webp",
-      "alt": "pepe cry",
-      "tags": [
-        "pepe",
-        "llorando",
-        "meme",
-        "cry"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-llorando.webp",
-      "registrado_en": "2026-08-22T20:24:23.135147"
-    },
-    {
-      "id": "pepe-moviendo-cartel-noob",
-      "titulo": "pepe-agitando-cartel-noob",
-      "categoria": "animados/memes-gif",
-      "animado": true,
-      "archivo": "imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif",
-      "alt": "pepe con los ojos grandes cartel noob",
-      "tags": [
-        "pepe",
-        "noob",
-        "cartel",
-        "meme",
-        "gif"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif",
-      "registrado_en": "2026-08-22T21:11:20.492760"
-    },
-    {
-      "id": "pepe-emocionado",
-      "titulo": "pepe emocion",
-      "categoria": "animados/reacciones-gif",
-      "animado": true,
-      "archivo": "imagenes/animados/reacciones-gif/pepe-emocionado.gif",
-      "alt": "pepehype",
-      "tags": [
-        "pepe",
-        "emocion",
-        "hype",
-        "meme",
-        "gif"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-emocionado.gif",
-      "registrado_en": "2026-08-22T21:38:45.686570"
-    },
-    {
-      "id": "pepe-ban",
-      "titulo": "pepe-baneado",
-      "categoria": "animados/memes-gif",
-      "animado": true,
-      "archivo": "imagenes/animados/memes-gif/pepe-ban.png",
-      "alt": "pepe-baneado-server",
-      "tags": [
-        "pepe",
-        "ban",
-        "baneado",
-        "f",
-        "server",
-        "meme"
-      ],
-      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-ban.png",
-      "registrado_en": "2026-08-22T22:13:46.558626"
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png",
+      "registrado_en": "2026-08-22T22:49:18.989081"
     }
   ]
 }
