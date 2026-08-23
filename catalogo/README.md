@@ -10,7 +10,7 @@ En cada sección encontrarás bloques de código HTML. **¡Solo tienes que hacer
 ### ⚡ Emojis Estáticos (Imágenes Fijas)
 *   **[😂 Memes Estáticos](estaticos/memes.md)** (0 emojis)
 *   **[💻 Programación y Dev](estaticos/programacion.md)** (0 emojis)
-*   **[😮 Reacciones Fijas](estaticos/reacciones.md)** (0 emojis)
+*   **[😮 Reacciones Fijas](estaticos/reacciones.md)** (1 emojis)
 
 ### 🎬 Emojis Animados (GIFs con Movimiento)
 *   **[🐸 Memes Animados (GIFs)](animados/memes-gif.md)** (2 emojis)
@@ -19,7 +19,7 @@ En cada sección encontrarás bloques de código HTML. **¡Solo tienes que hacer
 ---
 
 ## 📊 Resumen del Proyecto
-*   **Total de Emojis Registrados:** 2
-*   **Última actualización:** 22/08/2026 19:33:48
+*   **Total de Emojis Registrados:** 3
+*   **Última actualización:** 22/08/2026 20:09:27
 
 [🏠 Volver al Inicio del Repositorio](../README.md)

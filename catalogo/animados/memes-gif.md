@@ -1,4 +1,4 @@
-﻿# Memes Animados (GIFs)
+# 🐸 Memes Animados (GIFs)
 
 Memes icónicos de internet con movimiento y GIFs divertidos.
 
