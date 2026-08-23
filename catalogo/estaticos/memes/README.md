@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **2** elementos en esta seccion.
+Actualmente hay **3** elementos en esta seccion.
 
 ---
 
@@ -58,6 +58,34 @@ Actualmente hay **2** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png" width="100" alt="gigachad smart">
+```
+
+---
+
+### shinji-en-la-silla (`shinji-ikari-silla-meme`)
+
+**Etiquetas:** `shinji`, `silla`, `triste`, `neon-genesis`, `evangelion`, `tristeza`, `incomodidad`, `verguenza`, `depresion`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png" width="50" alt="Shinji Chair Pose"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png" width="30" alt="Shinji Chair Pose">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png" width="50" alt="Shinji Chair Pose">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png" width="100" alt="Shinji Chair Pose">
 ```
 
 ---
