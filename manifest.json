@@ -70,6 +70,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/discord-logo.png",
       "registrado_en": "2026-08-22T23:05:10.154346"
+    },
+    {
+      "id": "gay",
+      "titulo": "gay logo",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/gay.png",
+      "alt": "papitas-que-dicen-gays",
+      "tags": [
+        "gay",
+        "gays",
+        "xd",
+        "papitas",
+        "logo"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gay.png",
+      "registrado_en": "2026-08-22T23:07:51.172399"
     }
   ]
 }
