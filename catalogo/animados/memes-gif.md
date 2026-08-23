@@ -1,94 +1,38 @@
-# 🐸 Memes Animados (GIFs)
+# Memes Animados (GIFs)
 
-Memes icónicos de internet con movimiento y GIFs divertidos.
+Memes iconicos de internet con movimiento y GIFs divertidos.
 
-Actualmente hay **3** emojis en esta sección.
+Actualmente hay **1** elemento en esta seccion.
 
 ---
 
-### 🖼️ Pepe_ con cara tonta (`pepe-tonto`)
+### pepe-apuntando-arma (`pepe-arma`)
 
-**Etiquetas:** `pepe`, `tonto`, `derp`, `gif`, `meme`, `animado`, `risa`
+**Etiquetas:** `pepe`, `arma`, `gun`, `rana`, `disparo`, `gif`
 
-| Vista Previa (Tamaño Real de Muestra) |
+| Vista Previa |
 | :---: |
-| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png" width="50" alt="gif pepe cara tonta"> |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png" width="50" alt="pepe-gun"> |
 
-**Tamaño 30px (Mini para texto):**
+**Tamaño 30px (Mini):**
 
 ```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png" width="30" alt="gif pepe cara tonta">
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png" width="30" alt="pepe-gun">
 ```
 
-**Tamaño 50px (Medio para listas):**
+**Tamaño 50px (Medio):**
 
 ```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png" width="50" alt="gif pepe cara tonta">
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png" width="50" alt="pepe-gun">
 ```
 
-**Tamaño 100px (Grande para destacar):**
+**Tamaño 100px (Grande):**
 
 ```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png" width="100" alt="gif pepe cara tonta">
-```
-
----
-
-### 🖼️ pepe cartel simp (`pepe-cartel-simp`)
-
-**Etiquetas:** `pepe`, `cartel`, `simp`, `meme`, `gif`
-
-| Vista Previa (Tamaño Real de Muestra) |
-| :---: |
-| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="50" alt="pepe agarrando un cartel"> |
-
-**Tamaño 30px (Mini para texto):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="30" alt="pepe agarrando un cartel">
-```
-
-**Tamaño 50px (Medio para listas):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="50" alt="pepe agarrando un cartel">
-```
-
-**Tamaño 100px (Grande para destacar):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="100" alt="pepe agarrando un cartel">
-```
-
----
-
-### 🖼️ pepe-agitando-cartel-noob (`pepe-moviendo-cartel-noob`)
-
-**Etiquetas:** `pepe`, `noob`, `cartel`, `meme`, `gif`
-
-| Vista Previa (Tamaño Real de Muestra) |
-| :---: |
-| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="50" alt="pepe con los ojos grandes cartel noob"> |
-
-**Tamaño 30px (Mini para texto):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="30" alt="pepe con los ojos grandes cartel noob">
-```
-
-**Tamaño 50px (Medio para listas):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="50" alt="pepe con los ojos grandes cartel noob">
-```
-
-**Tamaño 100px (Grande para destacar):**
-
-```html
-<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif" width="100" alt="pepe con los ojos grandes cartel noob">
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-arma.png" width="100" alt="pepe-gun">
 ```
 
 ---
 
 
-[🏠 Volver al Índice del Catálogo](../README.md) | [💻 Volver al Inicio del Repositorio](../../README.md)
+[ Volver al Indice del Catalogo](../README.md) | [ Volver al Inicio del Repositorio](../../README.md)

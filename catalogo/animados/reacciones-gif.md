@@ -1,11 +1,38 @@
-# 🎉 Reacciones Animadas
+# Reacciones Animadas
 
 Expresiones, celebraciones e interacciones con movimiento.
 
-Actualmente hay **0** emojis en esta sección.
+Actualmente hay **1** elemento en esta seccion.
 
 ---
 
-*Aún no hay emojis registrados en esta categoría. ¡Sube el primero!* 🚀
+### pepe-pensando-duda (`pepe-pensando`)
 
-[🏠 Volver al Índice del Catálogo](../README.md) | [💻 Volver al Inicio del Repositorio](../../README.md)
+**Etiquetas:** `pepe`, `pensando`, `thin`, `curioso`, `hmmm`, `gif`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png" width="50" alt="pepe-thin"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png" width="30" alt="pepe-thin">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png" width="50" alt="pepe-thin">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png" width="100" alt="pepe-thin">
+```
+
+---
+
+
+[ Volver al Indice del Catalogo](../README.md) | [ Volver al Inicio del Repositorio](../../README.md)

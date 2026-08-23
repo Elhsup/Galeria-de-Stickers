@@ -1,25 +1,25 @@
-# 📖 Catálogo Oficial de Emojis y Stickers
+# Catalogo Oficial de Emojis y Stickers
 
-¡Bienvenido al catálogo oficial del proyecto! Aquí tienes la vitrina completa organizada por categorías. 
-En cada sección encontrarás bloques de código HTML. **¡Solo tienes que hacer clic en el botón de copiar que aparece en la esquina superior derecha del bloque y pegarlo en tu perfil!**
-
----
-
-## 🗂️ Categorías y Secciones
-
-### ⚡ Emojis Estáticos (Imágenes Fijas)
-*   **[😂 Memes Estáticos](estaticos/memes.md)** (0 emojis)
-*   **[💻 Programación y Dev](estaticos/programacion.md)** (0 emojis)
-*   **[😮 Reacciones Fijas](estaticos/reacciones.md)** (2 emojis)
-
-### 🎬 Emojis Animados (GIFs con Movimiento)
-*   **[Memes Animados (GIFs)](animados/memes-gif.md)** (3 emojis)
-*   **[🎉 Reacciones Animadas](animados/reacciones-gif.md)** (0 emojis)
+¡Bienvenido al catalogo oficial del proyecto! Aqui tienes la vitrina completa organizada por categorias. 
+Haz clic en el boton de copiar del bloque HTML que prefieras y pegalo en tu perfil.
 
 ---
 
-## 📊 Resumen del Proyecto
-*   **Total de Emojis Registrados:** 5
-*   **Última actualización:** 22/08/2026 21:32:37
+## Categorias y Secciones
 
-[🏠 Volver al Inicio del Repositorio](../README.md)
+### Emojis Estaticos (Imagenes Fijas)
+*   **[Memes Estaticos](estaticos/memes.md)** (1 elementos)
+*   **[Programacion y Dev](estaticos/programacion.md)** (1 elementos)
+*   **[Reacciones Fijas](estaticos/reacciones.md)** (1 elementos)
+
+### Emojis Animados (GIFs con Movimiento)
+*   **[Memes Animados (GIFs)](animados/memes-gif.md)** (1 elementos)
+*   **[Reacciones Animadas](animados/reacciones-gif.md)** (1 elementos)
+
+---
+
+## Resumen del Proyecto
+*   **Total de Elementos Registrados:** 5
+*   **Ultima actualizacion:** 22/08/2026 23:21:50
+
+[ Volver al Inicio del Repositorio](../README.md)
