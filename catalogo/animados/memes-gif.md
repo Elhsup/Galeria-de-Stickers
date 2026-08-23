@@ -1,6 +1,6 @@
-# Memes Animados (GIFs)
+# Animados - Memes-Gif
 
-Memes iconicos de internet con movimiento y GIFs divertidos.
+Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
 Actualmente hay **1** elemento en esta seccion.
 

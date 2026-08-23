@@ -1,6 +1,6 @@
-# Memes Estaticos
+# Estaticos - Memes
 
-Emojis de memes clasicos en formato de imagen fija (PNG, WebP).
+Seccion oficial para elementos de tipo: `estaticos/memes`.
 
 Actualmente hay **1** elemento en esta seccion.
 

@@ -1,6 +1,6 @@
-# Reacciones Fijas
+# Estaticos - Reacciones
 
-Expresiones, caras y reacciones estaticas para responder hilos.
+Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
 Actualmente hay **1** elemento en esta seccion.
 

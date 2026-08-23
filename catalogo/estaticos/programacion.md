@@ -1,6 +1,6 @@
-# Programacion y Dev
+# Estaticos - Programacion
 
-Logos de tecnologias, lenguajes de programacion y bromas de codigo.
+Seccion oficial para elementos de tipo: `estaticos/programacion`.
 
 Actualmente hay **1** elemento en esta seccion.
 

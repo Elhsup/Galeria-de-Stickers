@@ -1,6 +1,6 @@
-# Reacciones Animadas
+# Animados - Reacciones-Gif
 
-Expresiones, celebraciones e interacciones con movimiento.
+Seccion oficial para elementos de tipo: `animados/reacciones-gif`.
 
 Actualmente hay **1** elemento en esta seccion.
 
