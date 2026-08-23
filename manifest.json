@@ -36,6 +36,22 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif",
       "registrado_en": "2026-08-22T18:35:27.188748"
+    },
+    {
+      "id": "gato-sonriente",
+      "titulo": "Gato feliz",
+      "categoria": "estaticos/reacciones",
+      "animado": false,
+      "archivo": "imagenes/estaticos/reacciones/gato-sonriente.png",
+      "alt": "Gato con zoom sonriendo",
+      "tags": [
+        "gato",
+        "feliz",
+        "divertido",
+        "zoom"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/gato-sonriente.png",
+      "registrado_en": "2026-08-22T20:08:18.118537"
     }
   ]
 }
