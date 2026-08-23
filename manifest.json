@@ -52,6 +52,22 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/gato-sonriente.png",
       "registrado_en": "2026-08-22T20:08:18.118537"
+    },
+    {
+      "id": "pepe-llorando",
+      "titulo": "Pepe llorando",
+      "categoria": "estaticos/reacciones",
+      "animado": false,
+      "archivo": "imagenes/estaticos/reacciones/pepe-llorando.webp",
+      "alt": "pepe cry",
+      "tags": [
+        "pepe",
+        "llorando",
+        "meme",
+        "cry"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-llorando.webp",
+      "registrado_en": "2026-08-22T20:24:23.135147"
     }
   ]
 }
