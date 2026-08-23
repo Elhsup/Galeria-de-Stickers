@@ -85,6 +85,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif",
       "registrado_en": "2026-08-22T21:11:20.492760"
+    },
+    {
+      "id": "pepe-emocionado",
+      "titulo": "pepe emocion",
+      "categoria": "animados/reacciones-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/reacciones-gif/pepe-emocionado.gif",
+      "alt": "pepehype",
+      "tags": [
+        "pepe",
+        "emocion",
+        "hype",
+        "meme",
+        "gif"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-emocionado.gif",
+      "registrado_en": "2026-08-22T21:38:45.686570"
     }
   ]
 }
