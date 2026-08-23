@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **1** elemento en esta seccion.
+Actualmente hay **2** elementos en esta seccion.
 
 ---
 
@@ -30,6 +30,34 @@ Actualmente hay **1** elemento en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gay.png" width="100" alt="papitas-que-dicen-gays">
+```
+
+---
+
+### El gigachad pero con cerebrote (`gigachad-inteligente`)
+
+**Etiquetas:** `gigachad`, `chad`, `intelinegte`, `smart`, `meme`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png" width="50" alt="gigachad smart"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png" width="30" alt="gigachad smart">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png" width="50" alt="gigachad smart">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png" width="100" alt="gigachad smart">
 ```
 
 ---
