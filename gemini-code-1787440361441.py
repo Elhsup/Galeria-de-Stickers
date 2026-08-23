@@ -75,7 +75,7 @@ def subir_a_github():
         print("[INFO] Ejecutando Git Add, Commit y Push...")
         try:
             subprocess.run(["git", "add", "."], cwd=REPO_ROOT, check=True)
-            subprocess.run(["git", "commit", "-m", "Actualizacion dinamica y limpia del catalogo de stickers"], cwd=REPO_ROOT, check=True)
+            subprocess.run(["git", "commit", "-m", "Estructura en espejo perfecta para el catalogo de stickers"], cwd=REPO_ROOT, check=True)
             subprocess.run(["git", "push"], cwd=REPO_ROOT, check=True)
             print("[EXITO] ¡Los cambios se han subido a GitHub con exito!")
         except subprocess.CalledProcessError as e:
@@ -85,7 +85,7 @@ def subir_a_github():
 
 def main():
     print("========================================================")
-    print("   === ACTUALIZADOR DINAMICO DE CATALOGO ===")
+    print("   === ACTUALIZADOR DINAMICO DE CATALOGO (ESPEJO) ===")
     print("========================================================\n")
     print(f"[INFO] Raiz detectada en: {REPO_ROOT}\n")
 
@@ -93,10 +93,8 @@ def main():
     items = manifest.get("items", [])
     total_emojis = len(items)
 
-    # Descubrir dinamicamente todas las categorias unicas que existan en el JSON
     categorias_detectadas = sorted(list(set(item.get("categoria") for item in items if item.get("categoria"))))
     
-    # Si por alguna razon el manifest esta vacio, definimos las por defecto
     if not categorias_detectadas:
         categorias_detectadas = [
             "estaticos/memes",
@@ -112,13 +110,12 @@ def main():
         if cat in conteos:
             conteos[cat] += 1
 
-    # Generar de forma dinamica los archivos usando os.path.join para evitar cruces de barras
+    # Generar carpetas reales en espejo (ej: catalogo/estaticos/reacciones/README.md)
     for cat_path in categorias_detectadas:
-        partes_cat = cat_path.split("/")
-        file_path = os.path.join(CATALOGO_DIR, *partes_cat) + ".md"
+        dir_espejo = os.path.join(CATALOGO_DIR, cat_path)
+        os.makedirs(dir_espejo, exist_ok=True)
         
-        # BLINDAJE: Crea la carpeta contenedora exacta antes de escribir
-        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        file_path = os.path.join(dir_espejo, "README.md")
         
         cant_items = conteos[cat_path]
         titulo_seccion = cat_path.replace("/", " - ").title()
@@ -129,20 +126,21 @@ def main():
         md_content += "---\n\n"
         md_content += build_category_blocks(items, cat_path)
         md_content += "\n"
-        md_content += "[ Volver al Indice del Catalogo](../README.md) | [ Volver al Inicio del Repositorio](../../README.md)\n"
+        md_content += "[ Volver al Indice del Catalogo](../README.md) | [ Volver al Inicio del Repositorio](../../../README.md)\n"
 
-        print(f"[DEBUG] Generando archivo dinamico en -> {file_path}")
+        print(f"[DEBUG] Generando espejo en -> {file_path}")
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(md_content)
 
-    # Generar el README principal del catalogo de forma dinamica
+    # Generar el README principal del catalogo
     readme_path = os.path.join(CATALOGO_DIR, "README.md")
     os.makedirs(os.path.dirname(readme_path), exist_ok=True)
 
     links_markdown = ""
     for cat_path in categorias_detectadas:
         nombre_amigable = cat_path.replace("/", " / ").title()
-        links_markdown += f"*   **[{nombre_amigable}]({cat_path}.md)** ({conteos[cat_path]} elementos)\n"
+        # Apunta directamente a la carpeta espejo (GitHub lee el README de adentro solo)
+        links_markdown += f"*   **[{nombre_amigable}]({cat_path}/README.md)** ({conteos[cat_path]} elementos)\n"
 
     index_content = f"""# Catalogo Oficial de Emojis y Stickers
 
@@ -167,7 +165,7 @@ Haz clic en el boton de copiar del bloque HTML que prefieras y pegalo en tu perf
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(index_content)
 
-    print("[OK] ¡Catalogo dinamico generado y organizado a la perfección!\n")
+    print("[OK] ¡Estructura en espejo generada y organizada con precisión quirúrgica!\n")
     subir_a_github()
 
 if __name__ == "__main__":
