@@ -102,6 +102,24 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-emocionado.gif",
       "registrado_en": "2026-08-22T21:38:45.686570"
+    },
+    {
+      "id": "pepe-ban",
+      "titulo": "pepe-baneado",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/pepe-ban.png",
+      "alt": "pepe-baneado-server",
+      "tags": [
+        "pepe",
+        "ban",
+        "baneado",
+        "f",
+        "server",
+        "meme"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-ban.png",
+      "registrado_en": "2026-08-22T22:13:46.558626"
     }
   ]
 }
