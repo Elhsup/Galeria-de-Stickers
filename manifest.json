@@ -68,6 +68,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-llorando.webp",
       "registrado_en": "2026-08-22T20:24:23.135147"
+    },
+    {
+      "id": "pepe-moviendo-cartel-noob",
+      "titulo": "pepe-agitando-cartel-noob",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif",
+      "alt": "pepe con los ojos grandes cartel noob",
+      "tags": [
+        "pepe",
+        "noob",
+        "cartel",
+        "meme",
+        "gif"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-moviendo-cartel-noob.gif",
+      "registrado_en": "2026-08-22T21:11:20.492760"
     }
   ]
 }
