@@ -1,11 +1,11 @@
 # 🎉 Reacciones Animadas
 
-Expresiones, celebraciones e interacciones con movimiento.
+Celebraciones e interacciones.
 
-Actualmente hay **0** emojis en esta sección.
+Actualmente hay **0** emojis.
 
 ---
 
 *Aún no hay emojis registrados en esta categoría. ¡Sube el primero!* 🚀
 
-[🏠 Volver al Índice del Catálogo](../README.md) | [💻 Volver al Inicio del Repositorio](../../README.md)
+[🏠 Volver al Índice](../README.md) | [💻 Volver al Inicio](../../README.md)

@@ -1,8 +1,8 @@
 # 🐸 Memes Animados (GIFs)
 
-Memes icónicos de internet con movimiento y GIFs divertidos.
+Memes con movimiento.
 
-Actualmente hay **2** emojis en esta sección.
+Actualmente hay **2** emojis.
 
 ---
 
@@ -10,7 +10,7 @@ Actualmente hay **2** emojis en esta sección.
 
 **Etiquetas:** `pepe`, `tonto`, `derp`, `gif`, `meme`, `animado`, `risa`
 
-| Vista Previa (Tamaño Real de Muestra) |
+| Vista Previa |
 | :---: |
 | <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-tonto.png" width="50" alt="gif pepe cara tonta"> |
 
@@ -38,7 +38,7 @@ Actualmente hay **2** emojis en esta sección.
 
 **Etiquetas:** `pepe`, `cartel`, `simp`, `meme`, `gif`
 
-| Vista Previa (Tamaño Real de Muestra) |
+| Vista Previa |
 | :---: |
 | <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-cartel-simp.gif" width="50" alt="pepe agarrando un cartel"> |
 
@@ -63,4 +63,4 @@ Actualmente hay **2** emojis en esta sección.
 ---
 
 
-[🏠 Volver al Índice del Catálogo](../README.md) | [💻 Volver al Inicio del Repositorio](../../README.md)
+[🏠 Volver al Índice](../README.md) | [💻 Volver al Inicio](../../README.md)

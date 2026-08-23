@@ -1,8 +1,8 @@
 # 😮 Reacciones Fijas
 
-Expresiones, caras y reacciones estáticas para responder hilos.
+Expresiones y caras.
 
-Actualmente hay **2** emojis en esta sección.
+Actualmente hay **2** emojis.
 
 ---
 
@@ -10,7 +10,7 @@ Actualmente hay **2** emojis en esta sección.
 
 **Etiquetas:** `gato`, `feliz`, `divertido`, `zoom`
 
-| Vista Previa (Tamaño Real de Muestra) |
+| Vista Previa |
 | :---: |
 | <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/gato-sonriente.png" width="50" alt="Gato con zoom sonriendo"> |
 
@@ -38,7 +38,7 @@ Actualmente hay **2** emojis en esta sección.
 
 **Etiquetas:** `pepe`, `llorando`, `meme`, `cry`
 
-| Vista Previa (Tamaño Real de Muestra) |
+| Vista Previa |
 | :---: |
 | <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-llorando.webp" width="50" alt="pepe cry"> |
 
@@ -63,4 +63,4 @@ Actualmente hay **2** emojis en esta sección.
 ---
 
 
-[🏠 Volver al Índice del Catálogo](../README.md) | [💻 Volver al Inicio del Repositorio](../../README.md)
+[🏠 Volver al Índice](../README.md) | [💻 Volver al Inicio](../../README.md)
