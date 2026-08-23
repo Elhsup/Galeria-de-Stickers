@@ -121,6 +121,27 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png",
       "registrado_en": "2026-08-23T17:21:33.327808"
+    },
+    {
+      "id": "shinji-ikari-silla-meme",
+      "titulo": "shinji-en-la-silla",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/shinji-ikari-silla-meme.png",
+      "alt": "Shinji Chair Pose",
+      "tags": [
+        "shinji",
+        "silla",
+        "triste",
+        "neon-genesis",
+        "evangelion",
+        "tristeza",
+        "incomodidad",
+        "verguenza",
+        "depresion"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png",
+      "registrado_en": "2026-08-23T17:29:26.114488"
     }
   ]
 }
