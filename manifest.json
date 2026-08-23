@@ -104,6 +104,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-nerd.png",
       "registrado_en": "2026-08-23T14:42:54.444082"
+    },
+    {
+      "id": "gigachad-inteligente",
+      "titulo": "El gigachad pero con cerebrote",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/gigachad-inteligente.png",
+      "alt": "gigachad smart",
+      "tags": [
+        "gigachad",
+        "chad",
+        "intelinegte",
+        "smart",
+        "meme"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gigachad-inteligente.png",
+      "registrado_en": "2026-08-23T17:21:33.327808"
     }
   ]
 }
