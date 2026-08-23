@@ -35,6 +35,25 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/pepe-pensando.png",
       "registrado_en": "2026-08-22T22:53:06.355100"
+    },
+    {
+      "id": "pepe-sorprendido",
+      "titulo": "pepe sorprendido",
+      "categoria": "estaticos/reacciones",
+      "animado": false,
+      "archivo": "imagenes/estaticos/reacciones/pepe-sorprendido.png",
+      "alt": "pepe :0",
+      "tags": [
+        "pepe",
+        "sorprendido",
+        "omg",
+        "wtf",
+        ":0",
+        "0:",
+        "gif"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-sorprendido.png",
+      "registrado_en": "2026-08-22T22:55:02.489326"
     }
   ]
 }
