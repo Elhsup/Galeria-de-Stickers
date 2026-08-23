@@ -87,6 +87,23 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/gay.png",
       "registrado_en": "2026-08-22T23:07:51.172399"
+    },
+    {
+      "id": "emoji-nerd",
+      "titulo": "nerd-emoji",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/emoji-nerd.png",
+      "alt": "meme de de echo",
+      "tags": [
+        "meme",
+        "emoji",
+        "nerd",
+        "amarillo",
+        "lentes"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-nerd.png",
+      "registrado_en": "2026-08-23T14:42:54.444082"
     }
   ]
 }
