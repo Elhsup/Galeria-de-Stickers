@@ -13,13 +13,13 @@ En cada sección encontrarás bloques de código HTML. **¡Solo tienes que hacer
 *   **[😮 Reacciones Fijas](estaticos/reacciones.md)** (2 emojis)
 
 ### 🎬 Emojis Animados (GIFs con Movimiento)
-*   **[🐸 Memes Animados (GIFs)](animados/memes-gif.md)** (2 emojis)
+*   **[Memes Animados (GIFs)](animados/memes-gif.md)** (3 emojis)
 *   **[🎉 Reacciones Animadas](animados/reacciones-gif.md)** (0 emojis)
 
 ---
 
 ## 📊 Resumen del Proyecto
-*   **Total de Emojis Registrados:** 4
-*   **Última actualización:** 22/08/2026 20:27:13
+*   **Total de Emojis Registrados:** 5
+*   **Última actualización:** 22/08/2026 21:32:37
 
 [🏠 Volver al Inicio del Repositorio](../README.md)
