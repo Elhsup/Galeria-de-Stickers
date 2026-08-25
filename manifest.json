@@ -268,6 +268,26 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-pensando-distorsionado.png",
       "registrado_en": "2026-08-25T09:33:40.772258"
+    },
+    {
+      "id": "meme-amogus-among-us-deforme",
+      "titulo": "Tripulante de Among Us distorsionado con forma de letra",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/meme-amogus-among-us-deforme.png",
+      "alt": "Meme de Amogus",
+      "tags": [
+        "amongus",
+        "among-us",
+        "impostor",
+        "sus",
+        "tripulante",
+        "deforme",
+        "shitpost",
+        "game"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png",
+      "registrado_en": "2026-08-25T09:42:04.624079"
     }
   ]
 }
