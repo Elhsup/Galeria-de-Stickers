@@ -246,6 +246,28 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png",
       "registrado_en": "2026-08-25T09:28:00.228177"
+    },
+    {
+      "id": "emoji-pensando-distorsionado",
+      "titulo": "Emote Emoji Pensativo Deforme",
+      "categoria": "estaticos/reacciones",
+      "animado": false,
+      "archivo": "imagenes/estaticos/reacciones/emoji-pensando-distorsionado.png",
+      "alt": "emoji thonk cursed",
+      "tags": [
+        "thonk",
+        "thinking emoji",
+        "emoji pensando",
+        "distorsionado",
+        "deforme",
+        "confundido",
+        "duda",
+        "sospecha",
+        "ironia",
+        "emoji"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-pensando-distorsionado.png",
+      "registrado_en": "2026-08-25T09:33:40.772258"
     }
   ]
 }
