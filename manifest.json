@@ -308,6 +308,28 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png",
       "registrado_en": "2026-08-25T09:46:06.210971"
+    },
+    {
+      "id": "emoji-ojos-moviendose",
+      "titulo": "Emoji de ojos mirando",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/emoji-ojos-moviendose.png",
+      "alt": "animacion-ojos-grandes-atentos",
+      "tags": [
+        "ojos",
+        "eyes",
+        "moving",
+        "moviendose",
+        "emoji",
+        "gif",
+        "chisme",
+        "curiosidad",
+        "reaccion",
+        "interes"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png",
+      "registrado_en": "2026-08-25T10:47:26.345068"
     }
   ]
 }
