@@ -351,6 +351,27 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/gif-meme-john-travolta-confundido.png",
       "registrado_en": "2026-08-25T19:26:56.906966"
+    },
+    {
+      "id": "meme-nino-comiendo-cuchara-mirada-fija",
+      "titulo": "eme-nino-cuchara-mirada-fija",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png",
+      "alt": "kid",
+      "tags": [
+        "kid",
+        "nino",
+        "cuchara",
+        "comer",
+        "comiendo",
+        "shitpost",
+        "crused",
+        "juzgando",
+        "eat"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png",
+      "registrado_en": "2026-08-25T19:32:04.074334"
     }
   ]
 }
