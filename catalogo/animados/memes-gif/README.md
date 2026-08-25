@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **5** elementos en esta seccion.
+Actualmente hay **6** elementos en esta seccion.
 
 ---
 
@@ -142,6 +142,34 @@ Actualmente hay **5** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="100" alt="me-atraparon">
+```
+
+---
+
+### Emoji de ojos mirando (`emoji-ojos-moviendose`)
+
+**Etiquetas:** `ojos`, `eyes`, `moving`, `moviendose`, `emoji`, `gif`, `chisme`, `curiosidad`, `reaccion`, `interes`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="50" alt="animacion-ojos-grandes-atentos"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="30" alt="animacion-ojos-grandes-atentos">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="50" alt="animacion-ojos-grandes-atentos">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="100" alt="animacion-ojos-grandes-atentos">
 ```
 
 ---
