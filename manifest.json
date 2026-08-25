@@ -330,6 +330,27 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png",
       "registrado_en": "2026-08-25T10:47:26.345068"
+    },
+    {
+      "id": "gif-meme-john-travolta-confundido",
+      "titulo": "Meme de John Travolta confundido",
+      "categoria": "animados/reacciones-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/reacciones-gif/gif-meme-john-travolta-confundido.png",
+      "alt": "meme-travolta-pulp-fiction",
+      "tags": [
+        "john-travolta",
+        "confundido",
+        "desorientado",
+        "buscando",
+        "search",
+        "lost",
+        "where",
+        "cine",
+        "movie"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/gif-meme-john-travolta-confundido.png",
+      "registrado_en": "2026-08-25T19:26:56.906966"
     }
   ]
 }
