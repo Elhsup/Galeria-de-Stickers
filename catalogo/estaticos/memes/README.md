@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **4** elementos en esta seccion.
+Actualmente hay **5** elementos en esta seccion.
 
 ---
 
@@ -114,6 +114,34 @@ Actualmente hay **4** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="100" alt="estilo">
+```
+
+---
+
+### Meme Hombre con Traje y Flecha Financiera (`meme-stonks-mentalidad-de-tiburon`)
+
+**Etiquetas:** `stonks`, `meme man`, `mentalidad de tiburon`, `negocios`, `finanzas`, `inversiones`, `economia`, `ganar dinero`, `exito`, `traje elegante`, `flecha azul`, `grafica financiera`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png" width="50" alt="Meme Man Stonks Negocios"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png" width="30" alt="Meme Man Stonks Negocios">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png" width="50" alt="Meme Man Stonks Negocios">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png" width="100" alt="Meme Man Stonks Negocios">
 ```
 
 ---
