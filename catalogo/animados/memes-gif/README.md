@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **6** elementos en esta seccion.
+Actualmente hay **7** elementos en esta seccion.
 
 ---
 
@@ -170,6 +170,34 @@ Actualmente hay **6** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="100" alt="animacion-ojos-grandes-atentos">
+```
+
+---
+
+### eme-nino-cuchara-mirada-fija (`meme-nino-comiendo-cuchara-mirada-fija`)
+
+**Etiquetas:** `kid`, `nino`, `cuchara`, `comer`, `comiendo`, `shitpost`, `crused`, `juzgando`, `eat`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="50" alt="kid"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="30" alt="kid">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="50" alt="kid">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="100" alt="kid">
 ```
 
 ---
