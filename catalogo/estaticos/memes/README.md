@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **6** elementos en esta seccion.
+Actualmente hay **7** elementos en esta seccion.
 
 ---
 
@@ -170,6 +170,34 @@ Actualmente hay **6** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png" width="100" alt="Meme de Amogus">
+```
+
+---
+
+### El perrito de la ansiedad (`meme-cheems-perrito-ansiedad`)
+
+**Etiquetas:** `perrito`, `cheems`, `shiba-inu`, `ansiedad`, `amnsiedad`, `doge`, `reaccion`, `shitpost`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="50" alt="meme-cheems-perrito-shiba"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="30" alt="meme-cheems-perrito-shiba">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="50" alt="meme-cheems-perrito-shiba">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="100" alt="meme-cheems-perrito-shiba">
 ```
 
 ---
