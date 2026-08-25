@@ -142,6 +142,25 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png",
       "registrado_en": "2026-08-23T17:29:26.114488"
+    },
+    {
+      "id": "rainbow-frog",
+      "titulo": "rana arcoiris",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/rainbow-frog.png",
+      "alt": "MLG Frog",
+      "tags": [
+        "frog",
+        "rana",
+        "rainbow",
+        "arcoiris",
+        "memes",
+        "gif",
+        "mlg"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png",
+      "registrado_en": "2026-08-24T22:53:49.575809"
     }
   ]
 }
