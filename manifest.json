@@ -161,6 +161,24 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png",
       "registrado_en": "2026-08-24T22:53:49.575809"
+    },
+    {
+      "id": "roll-safe",
+      "titulo": "Meme del Negro Pensando",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/roll-safe.png",
+      "alt": "roll safe",
+      "tags": [
+        "meme",
+        "roll safe",
+        "sonrisa picara",
+        "esceptico",
+        "complicidad",
+        "negro"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/roll-safe.png",
+      "registrado_en": "2026-08-24T23:02:35.153018"
     }
   ]
 }
