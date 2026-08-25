@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **7** elementos en esta seccion.
+Actualmente hay **8** elementos en esta seccion.
 
 ---
 
@@ -198,6 +198,34 @@ Actualmente hay **7** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="100" alt="kid">
+```
+
+---
+
+### club-penguin-pinguino-trapeador (`club-penguin-pinguino-limpiando-trapeador`)
+
+**Etiquetas:** `black penguin`, `penguin`, `club-penguin`, `pinguino`, `trapeador`, `balde`, `cubeta`, `limpiar`, `cansado`, `disney`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png" width="50" alt="black penguin from Club Penguin holding a mop"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png" width="30" alt="black penguin from Club Penguin holding a mop">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png" width="50" alt="black penguin from Club Penguin holding a mop">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png" width="100" alt="black penguin from Club Penguin holding a mop">
 ```
 
 ---
