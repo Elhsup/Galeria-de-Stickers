@@ -204,6 +204,24 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png",
       "registrado_en": "2026-08-24T23:14:13.583352"
+    },
+    {
+      "id": "among-us-xd",
+      "titulo": "among us nike",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/among-us-xd.png",
+      "alt": "estilo",
+      "tags": [
+        "nike",
+        "amongus",
+        "among us",
+        "meme",
+        "xd",
+        "crused"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png",
+      "registrado_en": "2026-08-24T23:30:52.330113"
     }
   ]
 }
