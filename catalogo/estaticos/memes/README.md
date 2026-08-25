@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **5** elementos en esta seccion.
+Actualmente hay **6** elementos en esta seccion.
 
 ---
 
@@ -142,6 +142,34 @@ Actualmente hay **5** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-stonks-mentalidad-de-tiburon.png" width="100" alt="Meme Man Stonks Negocios">
+```
+
+---
+
+### Tripulante de Among Us distorsionado con forma de letra (`meme-amogus-among-us-deforme`)
+
+**Etiquetas:** `amongus`, `among-us`, `impostor`, `sus`, `tripulante`, `deforme`, `shitpost`, `game`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png" width="50" alt="Meme de Amogus"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png" width="30" alt="Meme de Amogus">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png" width="50" alt="Meme de Amogus">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-amogus-among-us-deforme.png" width="100" alt="Meme de Amogus">
 ```
 
 ---
