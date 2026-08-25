@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **3** elementos en esta seccion.
+Actualmente hay **4** elementos en esta seccion.
 
 ---
 
@@ -86,6 +86,34 @@ Actualmente hay **3** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/shinji-ikari-silla-meme.png" width="100" alt="Shinji Chair Pose">
+```
+
+---
+
+### among us nike (`among-us-xd`)
+
+**Etiquetas:** `nike`, `amongus`, `among us`, `meme`, `xd`, `crused`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="50" alt="estilo"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="30" alt="estilo">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="50" alt="estilo">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="100" alt="estilo">
 ```
 
 ---

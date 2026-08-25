@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **2** elementos en esta seccion.
+Actualmente hay **5** elementos en esta seccion.
 
 ---
 
@@ -58,6 +58,90 @@ Actualmente hay **2** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-nerd.png" width="100" alt="meme de de echo">
+```
+
+---
+
+### rana arcoiris (`rainbow-frog`)
+
+**Etiquetas:** `frog`, `rana`, `rainbow`, `arcoiris`, `memes`, `gif`, `mlg`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png" width="50" alt="MLG Frog"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png" width="30" alt="MLG Frog">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png" width="50" alt="MLG Frog">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png" width="100" alt="MLG Frog">
+```
+
+---
+
+### Meme del Negro Pensando (`roll-safe`)
+
+**Etiquetas:** `meme`, `roll safe`, `sonrisa picara`, `esceptico`, `complicidad`, `negro`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/roll-safe.png" width="50" alt="roll safe"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/roll-safe.png" width="30" alt="roll safe">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/roll-safe.png" width="50" alt="roll safe">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/roll-safe.png" width="100" alt="roll safe">
+```
+
+---
+
+### pepe-descubierto-pc (`pepe-descubierto`)
+
+**Etiquetas:** `rana`, `frog`, `pepe`, `kanna kamui`, `kanna`, `anime`, `girl`, `loli`, `pc`, `otaku`, `descubierto`, `friki`, `geek`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="50" alt="me-atraparon"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="30" alt="me-atraparon">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="50" alt="me-atraparon">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="100" alt="me-atraparon">
 ```
 
 ---
