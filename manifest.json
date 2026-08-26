@@ -456,6 +456,30 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png",
       "registrado_en": "2026-08-25T22:39:59.787849"
+    },
+    {
+      "id": "meme-gif-freddy-fazbear-moviendo-cabeza-lentes",
+      "titulo": "Meme de Freddy con lentes",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png",
+      "alt": "shitpost-freddy-glasses-shaking-head",
+      "tags": [
+        "freddy-fazbear",
+        "fnaf",
+        "lentes",
+        "gafas",
+        "push",
+        "push-ends",
+        "shitpost",
+        "cursed",
+        "freddy",
+        "animatronic",
+        "shaking",
+        "head"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png",
+      "registrado_en": "2026-08-25T22:47:50.818092"
     }
   ]
 }
