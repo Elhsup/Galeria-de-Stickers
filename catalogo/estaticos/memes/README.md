@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **7** elementos en esta seccion.
+Actualmente hay **8** elementos en esta seccion.
 
 ---
 
@@ -198,6 +198,34 @@ Actualmente hay **7** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="100" alt="meme-cheems-perrito-shiba">
+```
+
+---
+
+### Bloque de barrera de Minecraft (`minecraft-bloque-barrera`)
+
+**Etiquetas:** `minecraft`, `bloque`, `barrera`, `block`, `invisible`, `creativo`, `barrier`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png" width="50" alt="minecraft-barrier-block-texture"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png" width="30" alt="minecraft-barrier-block-texture">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png" width="50" alt="minecraft-barrier-block-texture">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png" width="100" alt="minecraft-barrier-block-texture">
 ```
 
 ---
