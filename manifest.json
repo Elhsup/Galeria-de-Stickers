@@ -435,6 +435,27 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png",
       "registrado_en": "2026-08-25T22:35:12.929410"
+    },
+    {
+      "id": "icono-check-verde-pixel-art",
+      "titulo": "Palomita verde retro",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/icono-check-verde-pixel-art.png",
+      "alt": "pixel art icon of a bright green checkmark",
+      "tags": [
+        "check",
+        "palomita",
+        "verificacion",
+        "correcto",
+        "verde",
+        "pixel",
+        "pixel-art",
+        "ok",
+        "checkmark"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png",
+      "registrado_en": "2026-08-25T22:39:59.787849"
     }
   ]
 }
