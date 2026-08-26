@@ -15,7 +15,7 @@ Para explorar todo lo que ofrece este repositorio, puedes usar los siguientes li
 *   **[<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-pensando-distorsionado.png" width="30" alt="emoji thonk cursed"> Cómo Contribuir](./contribucion.md)**: ¿Tienes emojis geniales que quieres aportar? Sigue nuestra guía comunitaria.
 *   **[ <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/emoji-ojos-moviendose.png" width="40" alt="animacion-ojos-grandes-atentos">Por que hice esto?](./utilidad.md)**: Yo hablando porque hice este repo :D.
 
-*   **[<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="30" alt="meme-cheems-perrito-shiba"> Busca tus propias imagenes](./buscar_emoji.md)**: Este script y  **.exe** te ayudara a buscar tus propias imagenes y pegarlas a tus readmes.
+*   **[<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-cheems-perrito-ansiedad.png" width="30" alt="meme-cheems-perrito-shiba"> Busca tus propias imagenes](./busca-emoji/README.md)**: Este script y  **.exe** te ayudara a buscar tus propias imagenes y pegarlas a tus readmes.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/reacciones-gif/gif-meme-john-travolta-confundido.png" width="50" alt="meme-travolta-pulp-fiction">¿Para qué sirve este repositorio? (La innovación)
