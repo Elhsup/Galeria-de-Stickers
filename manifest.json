@@ -480,6 +480,27 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png",
       "registrado_en": "2026-08-25T22:47:50.818092"
+    },
+    {
+      "id": "logo-python-lenguaje-programacion",
+      "titulo": "Logo de Python",
+      "categoria": "estaticos/programacion",
+      "animado": false,
+      "archivo": "imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png",
+      "alt": "logo of the Python programming language",
+      "tags": [
+        "python",
+        "logo",
+        "programacion",
+        "code",
+        "codigo",
+        "tecnologia",
+        "backend",
+        "programming",
+        "language"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png",
+      "registrado_en": "2026-08-25T22:50:49.900172"
     }
   ]
 }
