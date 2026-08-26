@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **8** elementos en esta seccion.
+Actualmente hay **10** elementos en esta seccion.
 
 ---
 
@@ -226,6 +226,62 @@ Actualmente hay **8** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png" width="100" alt="minecraft-barrier-block-texture">
+```
+
+---
+
+### Icono pixelado de un chinche o tachuela (`chinche-verde-pixel-art`)
+
+**Etiquetas:** `thumbtack`, `pixel`, `pixel-art`, `chinche`, `tachuela`, `chincheta`, `verde`, `oficina`, `item`, `icon`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="50" alt="pixel art icon of a plastic push pin or thumbtack"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="30" alt="pixel art icon of a plastic push pin or thumbtack">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="50" alt="pixel art icon of a plastic push pin or thumbtack">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="100" alt="pixel art icon of a plastic push pin or thumbtack">
+```
+
+---
+
+### Palomita verde retro (`icono-check-verde-pixel-art`)
+
+**Etiquetas:** `check`, `palomita`, `verificacion`, `correcto`, `verde`, `pixel`, `pixel-art`, `ok`, `checkmark`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="50" alt="pixel art icon of a bright green checkmark"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="30" alt="pixel art icon of a bright green checkmark">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="50" alt="pixel art icon of a bright green checkmark">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="100" alt="pixel art icon of a bright green checkmark">
 ```
 
 ---
