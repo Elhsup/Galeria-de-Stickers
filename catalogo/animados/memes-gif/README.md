@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **8** elementos en esta seccion.
+Actualmente hay **9** elementos en esta seccion.
 
 ---
 
@@ -226,6 +226,34 @@ Actualmente hay **8** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png" width="100" alt="black penguin from Club Penguin holding a mop">
+```
+
+---
+
+### Meme de Freddy con lentes (`meme-gif-freddy-fazbear-moviendo-cabeza-lentes`)
+
+**Etiquetas:** `freddy-fazbear`, `fnaf`, `lentes`, `gafas`, `push`, `push-ends`, `shitpost`, `cursed`, `freddy`, `animatronic`, `shaking`, `head`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png" width="50" alt="shitpost-freddy-glasses-shaking-head"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png" width="30" alt="shitpost-freddy-glasses-shaking-head">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png" width="50" alt="shitpost-freddy-glasses-shaking-head">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png" width="100" alt="shitpost-freddy-glasses-shaking-head">
 ```
 
 ---

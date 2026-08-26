@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/programacion`.
 
-Actualmente hay **1** elemento en esta seccion.
+Actualmente hay **2** elementos en esta seccion.
 
 ---
 
@@ -30,6 +30,34 @@ Actualmente hay **1** elemento en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/discord-logo.png" width="100" alt="logo-discord">
+```
+
+---
+
+### Logo de Python (`logo-python-lenguaje-programacion`)
+
+**Etiquetas:** `python`, `logo`, `programacion`, `code`, `codigo`, `tecnologia`, `backend`, `programming`, `language`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png" width="50" alt="logo of the Python programming language"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png" width="30" alt="logo of the Python programming language">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png" width="50" alt="logo of the Python programming language">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png" width="100" alt="logo of the Python programming language">
 ```
 
 ---
