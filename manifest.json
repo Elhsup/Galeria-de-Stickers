@@ -501,6 +501,28 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/logo-python-lenguaje-programacion.png",
       "registrado_en": "2026-08-25T22:50:49.900172"
+    },
+    {
+      "id": "icono-codigo-programacion-etiquetas",
+      "titulo": "Etiquetas de programador",
+      "categoria": "estaticos/programacion",
+      "animado": false,
+      "archivo": "imagenes/estaticos/programacion/icono-codigo-programacion-etiquetas.png",
+      "alt": "icon representing code",
+      "tags": [
+        "codigo",
+        "code",
+        "html",
+        "programador",
+        "icono",
+        "simbolo",
+        "software",
+        "icon",
+        "codigo",
+        "web"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/icono-codigo-programacion-etiquetas.png",
+      "registrado_en": "2026-08-25T23:03:32.717043"
     }
   ]
 }
