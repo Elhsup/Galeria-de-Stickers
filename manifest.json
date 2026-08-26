@@ -394,6 +394,25 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/club-penguin-pinguino-limpiando-trapeador.png",
       "registrado_en": "2026-08-25T19:39:14.492217"
+    },
+    {
+      "id": "minecraft-bloque-barrera",
+      "titulo": "Bloque de barrera de Minecraft",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/minecraft-bloque-barrera.png",
+      "alt": "minecraft-barrier-block-texture",
+      "tags": [
+        "minecraft",
+        "bloque",
+        "barrera",
+        "block",
+        "invisible",
+        "creativo",
+        "barrier"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/minecraft-bloque-barrera.png",
+      "registrado_en": "2026-08-25T22:21:03.184470"
     }
   ]
 }
