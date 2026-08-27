@@ -2,15 +2,14 @@
 
 Aca estan disponible tanto en script de Python como en archivo ejecutable `.exe` independiente, la forma más rápida y directa de transformar cualquier enlace de imagen externo de internet en un emoji HTML para tus README de GitHub.
 
-<br>
-
 ---
 ##  <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pepe-descubierto.png" width="100" alt="me-atraparon"> Enlaces Rápidos
+
 - **[ <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/rainbow-frog.png" width="30" alt="MLG Frog"> Volver a la Portada Principal](../README.md)**: Regresa al inicio.
 
 - **[ <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/among-us-xd.png" width="30" alt="estilo"> Catálogo de Emojis](../catalogo/README.md)**: Explora la base de datos oficial.
 
-<br>
+- **[ <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/icono-codigo-programacion-etiquetas.png" width="30" alt="icon representing code"> Ver Página Oficial de Lanzamiento (Releases)](https://github.com/Elhsup/Galeria-de-Stickers/releases/latest):** Visita la cartelera oficial en GitHub para descargar el .exe (la app), ver las notas de versión, los cambios detallados y descargar manualmente los archivos adjuntos.
 
 ---
 
@@ -19,15 +18,14 @@ Este programa y/o codigo actúa  como un **traductor instantáneo y continuo**. 
 
 ---
 
-<br>
-
 
 ## <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/icono-codigo-programacion-etiquetas.png" width="50" alt="icon representing code"> El archivo Ejecutable (`buscar_emoji.exe`)
 1. <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="20" alt="pixel art icon of a bright green checkmark"> Descarga el .exe
+   
 2. <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="20" alt="pixel art icon of a bright green checkmark">  Haz doble clic sobre el archivo **`buscar_emoji.exe`**.
+   
 3. <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="20" alt="pixel art icon of a bright green checkmark">  Se abrirá una terminal negra interactiva y podrás usar el programa.
 
-<br>
 
 ###  <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-nino-comiendo-cuchara-mirada-fija.png" width="50" alt="kid"> ¿Cómo se usa? (Flujo Sencillo)
 
@@ -43,8 +41,6 @@ El uso de la herramienta es fácil e intuitivo. Solo requiere seguir estos tres 
    - **100px (Grande):** Excelente para banners de bienvenida o secciones destacadas.
 
  <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="30" alt="pixel art icon of a plastic push pin or thumbtack">`Al finalizar, el programa te entregará el código HTML listo y te preguntará de inmediato si deseas procesar otra imagen, selecciona con el mause <kbd>ctrl + c</kbd> o <kbd>ctrl + x</kbd> para copiar`
-
-<br>
 
 ---
 
