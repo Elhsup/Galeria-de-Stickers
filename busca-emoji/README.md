@@ -36,11 +36,12 @@ El uso de la herramienta es fácil e intuitivo. Solo requiere seguir estos tres 
 2. **Asignar un Nombre (Opcional):** Escribe una descripción corta para el atributo `alt` (ej: `pepe llorando`). Si no quieres ponerle nombre, solo presiona **Enter** .
 
 4. <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="20" alt="pixel art icon of a plastic push pin or thumbtack">**Elegir el Tamaño:** Selecciona entre los tres tamaños estándar recomendados para GitHub:
+
    - **30px (Mini):** Ideal para incrustar dentro de líneas de texto como un emoji fluido.
    - **50px (Medio):** Perfecto para viñetas, listas de características o subtítulos.
    - **100px (Grande):** Excelente para banners de bienvenida o secciones destacadas.
 
- <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="30" alt="pixel art icon of a plastic push pin or thumbtack">`Al finalizar, el programa te entregará el código HTML listo y te preguntará de inmediato si deseas procesar otra imagen, selecciona con el mause <kbd>ctrl + c</kbd> o <kbd>ctrl + x</kbd> para copiar`
+ <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/chinche-verde-pixel-art.png" width="30" alt="pixel art icon of a plastic push pin or thumbtack"> `Al finalizar, el programa te entregará el código HTML listo y te preguntará de inmediato si deseas procesar otra imagen, selecciona con el mause` <kbd>ctrl + c</kbd> `o` <kbd>ctrl + x</kbd> `para copiar`
 
 ---
 
