@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **9** elementos en esta seccion.
+Actualmente hay **12** elementos en esta seccion.
 
 ---
 
@@ -254,6 +254,90 @@ Actualmente hay **9** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-gif-freddy-fazbear-moviendo-cabeza-lentes.png" width="100" alt="shitpost-freddy-glasses-shaking-head">
+```
+
+---
+
+### Emoji blob bailando de colores (`gif-party-blob-dance-rainbow`)
+
+**Etiquetas:** `party`, `blob`, `rainbow`, `rapido`, `fiesta`, `colores`, `gif`, `animacion`, `reaccion`, `fast`, `looping`, `emoji`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png" width="50" alt="gif-party-blob-dance-rainbow"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png" width="30" alt="gif-party-blob-dance-rainbow">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png" width="50" alt="gif-party-blob-dance-rainbow">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png" width="100" alt="gif-party-blob-dance-rainbow">
+```
+
+---
+
+### mano-amarilla-dedo-indice-negacion (`gif-emoji-dedo-moviendo-diciendo-que-no`)
+
+**Etiquetas:** `dedo`, `mano`, `indice`, `no`, `nop`, `negacion`, `prohibicion`, `emoji`, `gif`, `reaccion`, `desaprobacion`, `looping`, `yellow`, `index`, `back`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-emoji-dedo-moviendo-diciendo-que-no.png" width="50" alt="animated looping GIF of a yellow emoji hand wagging its index finger back and forth from side to side to signal 'no"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-emoji-dedo-moviendo-diciendo-que-no.png" width="30" alt="animated looping GIF of a yellow emoji hand wagging its index finger back and forth from side to side to signal 'no">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-emoji-dedo-moviendo-diciendo-que-no.png" width="50" alt="animated looping GIF of a yellow emoji hand wagging its index finger back and forth from side to side to signal 'no">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-emoji-dedo-moviendo-diciendo-que-no.png" width="100" alt="animated looping GIF of a yellow emoji hand wagging its index finger back and forth from side to side to signal 'no">
+```
+
+---
+
+### tomando agua abajo del agua (`tomar-agua-debajo-del-agua`)
+
+**Etiquetas:** `bebiendo`, `agua`, `tomando`, `piscina`, `alberca`, `agua`, `chico`, `normal`, `vaso`, `pool`, `water`, `underwater`, `blur`, `glass`, `taing`, `man`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/tomar-agua-debajo-del-agua.png" width="50" alt="young man underwater in a blue swimming pool, casually raising a glass of water and taking a drink with a straight face."> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/tomar-agua-debajo-del-agua.png" width="30" alt="young man underwater in a blue swimming pool, casually raising a glass of water and taking a drink with a straight face.">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/tomar-agua-debajo-del-agua.png" width="50" alt="young man underwater in a blue swimming pool, casually raising a glass of water and taking a drink with a straight face.">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/tomar-agua-debajo-del-agua.png" width="100" alt="young man underwater in a blue swimming pool, casually raising a glass of water and taking a drink with a straight face.">
 ```
 
 ---
