@@ -523,6 +523,30 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/programacion/icono-codigo-programacion-etiquetas.png",
       "registrado_en": "2026-08-25T23:03:32.717043"
+    },
+    {
+      "id": "gif-party-blob-dance-rainbow",
+      "titulo": "Emoji blob bailando de colores",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png",
+      "alt": "gif-party-blob-dance-rainbow",
+      "tags": [
+        "party",
+        "blob",
+        "rainbow",
+        "rapido",
+        "fiesta",
+        "colores",
+        "gif",
+        "animacion",
+        "reaccion",
+        "fast",
+        "looping",
+        "emoji"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-party-blob-dance-rainbow.png",
+      "registrado_en": "2026-08-28T21:25:12.196697"
     }
   ]
 }
