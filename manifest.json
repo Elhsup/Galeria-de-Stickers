@@ -624,6 +624,33 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-meme-sonriente-malicioso.png",
       "registrado_en": "2026-09-22T11:24:10.401453"
+    },
+    {
+      "id": "michael-rosen-noice-meme",
+      "titulo": "rostro del escritor Michael Rosen distorsionado",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/michael-rosen-noice-meme.png",
+      "alt": "distorted-michael-rosen-face-meme-with-wide-smile-noice",
+      "tags": [
+        "meme",
+        "michael rosen",
+        "noice",
+        "nice",
+        "distorsionado",
+        "twitch",
+        "discord",
+        "reaccion",
+        "cara",
+        "sonrisa",
+        "gracioso",
+        "reaction",
+        "face",
+        "smile",
+        "funny"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png",
+      "registrado_en": "2026-09-22T11:32:04.588272"
     }
   ]
 }
