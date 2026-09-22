@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
-Actualmente hay **2** elementos en esta seccion.
+Actualmente hay **3** elementos en esta seccion.
 
 ---
 
@@ -58,6 +58,34 @@ Actualmente hay **2** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-pensando-distorsionado.png" width="100" alt="emoji thonk cursed">
+```
+
+---
+
+### emoji-amarillo-mirando (`emoji-meme-sonriente-malicioso`)
+
+**Etiquetas:** `emoji`, `cara`, `meme`, `amarillo`, `malicioso`, `sticker`, `random`, `face`, `smirk`, `disrespectfylly`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-meme-sonriente-malicioso.png" width="50" alt="Smirk-Emoji-Meme"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-meme-sonriente-malicioso.png" width="30" alt="Smirk-Emoji-Meme">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-meme-sonriente-malicioso.png" width="50" alt="Smirk-Emoji-Meme">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/emoji-meme-sonriente-malicioso.png" width="100" alt="Smirk-Emoji-Meme">
 ```
 
 ---

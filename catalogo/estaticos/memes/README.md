@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **10** elementos en esta seccion.
+Actualmente hay **11** elementos en esta seccion.
 
 ---
 
@@ -282,6 +282,34 @@ Actualmente hay **10** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-check-verde-pixel-art.png" width="100" alt="pixel art icon of a bright green checkmark">
+```
+
+---
+
+### rostro del escritor Michael Rosen distorsionado (`michael-rosen-noice-meme`)
+
+**Etiquetas:** `meme`, `michael rosen`, `noice`, `nice`, `distorsionado`, `twitch`, `discord`, `reaccion`, `cara`, `sonrisa`, `gracioso`, `reaction`, `face`, `smile`, `funny`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png" width="50" alt="distorted-michael-rosen-face-meme-with-wide-smile-noice"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png" width="30" alt="distorted-michael-rosen-face-meme-with-wide-smile-noice">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png" width="50" alt="distorted-michael-rosen-face-meme-with-wide-smile-noice">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png" width="100" alt="distorted-michael-rosen-face-meme-with-wide-smile-noice">
 ```
 
 ---
