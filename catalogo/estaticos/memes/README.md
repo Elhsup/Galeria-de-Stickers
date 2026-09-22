@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **11** elementos en esta seccion.
+Actualmente hay **12** elementos en esta seccion.
 
 ---
 
@@ -310,6 +310,34 @@ Actualmente hay **11** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/michael-rosen-noice-meme.png" width="100" alt="distorted-michael-rosen-face-meme-with-wide-smile-noice">
+```
+
+---
+
+### Meme Man vistiendo un traje ejecutivo con los brazos cruzados frente a una gráfica con una gran flecha roja apuntando hacia abajo (`not-stonks-meme-man-flecha-roja-abajo`)
+
+**Etiquetas:** `meme`, `stonks`, `not stonks`, `meme man`, `finanzas`, `perdida`, `flecha roja`, `economia`, `inversion`, `negocio`, `reaccion`, `inance`, `loss`, `red arrow`, `economy`, `investment`, `business`, `reaction`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/not-stonks-meme-man-flecha-roja-abajo.png" width="50" alt="not-stonks-meme-man-in-suit-with-red-arrow-pointing-downwards-bad-investment"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/not-stonks-meme-man-flecha-roja-abajo.png" width="30" alt="not-stonks-meme-man-in-suit-with-red-arrow-pointing-downwards-bad-investment">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/not-stonks-meme-man-flecha-roja-abajo.png" width="50" alt="not-stonks-meme-man-in-suit-with-red-arrow-pointing-downwards-bad-investment">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/not-stonks-meme-man-flecha-roja-abajo.png" width="100" alt="not-stonks-meme-man-in-suit-with-red-arrow-pointing-downwards-bad-investment">
 ```
 
 ---
