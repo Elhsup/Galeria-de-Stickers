@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
-Actualmente hay **4** elementos en esta seccion.
+Actualmente hay **5** elementos en esta seccion.
 
 ---
 
@@ -114,6 +114,34 @@ Actualmente hay **4** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/mike-wazowski-con-la-cara-de-sulley.png" width="100" alt="mike-wazowski-with-sulleys-face-swap-meme-blank-stare-expression">
+```
+
+---
+
+### Rana Pepe con una expresión facial de duda, sospecha y reflexión profunda mientras sostiene su barbilla. (`pepe-pensando`)
+
+**Etiquetas:** `rana pepe`, `meme`, `pensando`, `sospecha`, `duda`, `internet`, `emoticón`, `gesto`, `análisis`, `gracioso`, `pepe the frog`, `meme`, `thinking`, `suspicious`, `hmm`, `monkahmm`, `twitch emoji`, `internet culture`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-pensando.png" width="50" alt="thinking-pepe-frog-meme-emoji"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-pensando.png" width="30" alt="thinking-pepe-frog-meme-emoji">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-pensando.png" width="50" alt="thinking-pepe-frog-meme-emoji">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-pensando.png" width="100" alt="thinking-pepe-frog-meme-emoji">
 ```
 
 ---

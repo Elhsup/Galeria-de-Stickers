@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **12** elementos en esta seccion.
+Actualmente hay **13** elementos en esta seccion.
 
 ---
 
@@ -338,6 +338,34 @@ Actualmente hay **12** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/not-stonks-meme-man-flecha-roja-abajo.png" width="100" alt="not-stonks-meme-man-in-suit-with-red-arrow-pointing-downwards-bad-investment">
+```
+
+---
+
+### hombre están integrados dentro de una mano con el pulgar hacia arriba. (`cara-de-pulgar-arriba`)
+
+**Etiquetas:** `pulgar arriba`, `meme`, `surrealista`, `divertido`, `humor absurdo`, `cara deformada`, `reacción`, `mano`, `gesto de aprobación`, `internet`, `funny`, `surreal art`, `ezra thumb`, `reaction face`, `weird internet`, `photoshop fail`, `hand face`, `approval gesture`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/cara-de-pulgar-arriba.png" width="50" alt="thumbs-up-guy-face-meme"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/cara-de-pulgar-arriba.png" width="30" alt="thumbs-up-guy-face-meme">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/cara-de-pulgar-arriba.png" width="50" alt="thumbs-up-guy-face-meme">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/cara-de-pulgar-arriba.png" width="100" alt="thumbs-up-guy-face-meme">
 ```
 
 ---
