@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **12** elementos en esta seccion.
+Actualmente hay **13** elementos en esta seccion.
 
 ---
 
@@ -338,6 +338,34 @@ Actualmente hay **12** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/tomar-agua-debajo-del-agua.png" width="100" alt="young man underwater in a blue swimming pool, casually raising a glass of water and taking a drink with a straight face.">
+```
+
+---
+
+### bloque de césped de Minecraft saltando (`bloque-de-tierra-minecraft`)
+
+**Etiquetas:** `minecraft`, `bloque`, `tierra`, `cesped`, `pasto`, `videojuego`, `pixelado`, `textura`, `cubo`, `naturaleza`, `block`, `dirt`, `grass`, `videogame`, `pixelated`, `texture`, `cube`, `nature`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/bloque-de-tierra-minecraft.png" width="50" alt="Minecraft-Block"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/bloque-de-tierra-minecraft.png" width="30" alt="Minecraft-Block">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/bloque-de-tierra-minecraft.png" width="50" alt="Minecraft-Block">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/bloque-de-tierra-minecraft.png" width="100" alt="Minecraft-Block">
 ```
 
 ---

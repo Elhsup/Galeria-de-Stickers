@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
-Actualmente hay **5** elementos en esta seccion.
+Actualmente hay **6** elementos en esta seccion.
 
 ---
 
@@ -142,6 +142,34 @@ Actualmente hay **5** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-pensando.png" width="100" alt="thinking-pepe-frog-meme-emoji">
+```
+
+---
+
+### cara-graciosa-de-bonnie-fnaf-con-ojos-saltones (`bonnie-el-conejo-meme`)
+
+**Etiquetas:** `bonnie`, `fnaf`, `meme`, `bunny`, `animatronic`, `face`, `funny`, `jumpscare`, `horror`, `game`, `hilarious`, `reaction`, `bulging-eyes`, `bonnie`, `fnaf`, `meme`, `conejo`, `animatronico`, `cara`, `gracioso`, `susto`, `terror`, `juego`, `divertido`, `reaccion`, `ojos-saltones`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png" width="50" alt="bonnie-fnaf-meme"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png" width="30" alt="bonnie-fnaf-meme">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png" width="50" alt="bonnie-fnaf-meme">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png" width="100" alt="bonnie-fnaf-meme">
 ```
 
 ---
