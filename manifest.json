@@ -819,6 +819,36 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png",
       "registrado_en": "2026-09-26T15:51:40.477130"
+    },
+    {
+      "id": "pepe-cringe",
+      "titulo": "Pepe-con-cara-de-asco",
+      "categoria": "estaticos/reacciones",
+      "animado": false,
+      "archivo": "imagenes/estaticos/reacciones/pepe-cringe.png",
+      "alt": "Disgusted-Pepe",
+      "tags": [
+        "pepe",
+        "frog",
+        "meme",
+        "emote",
+        "twitch",
+        "discord",
+        "disgusted",
+        "eww",
+        "cringe",
+        "face",
+        "reaction",
+        "green",
+        "rana",
+        "asco",
+        "mueca",
+        "dientes",
+        "incomodo",
+        "reacccion"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-cringe.png",
+      "registrado_en": "2026-09-27T12:49:22.475806"
     }
   ]
 }
