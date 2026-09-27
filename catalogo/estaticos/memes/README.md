@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **13** elementos en esta seccion.
+Actualmente hay **14** elementos en esta seccion.
 
 ---
 
@@ -366,6 +366,34 @@ Actualmente hay **13** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/cara-de-pulgar-arriba.png" width="100" alt="thumbs-up-guy-face-meme">
+```
+
+---
+
+### Freddy-Fazbear-confundido (`meme-de-freddy-que-carajos`)
+
+**Etiquetas:** `fnaf`, `freddy`, `fazbear`, `meme`, `reaction`, `confusion`, `shock`, `cartoon`, `the-fuck`, `bear`, `animatronic`, `dibujo`, `oso`, `confundido`, `reaccion`, `sorpresa`, `que-carajos`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-de-freddy-que-carajos.png" width="50" alt="freddy-fazbear-the-fuck-reaction-meme"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-de-freddy-que-carajos.png" width="30" alt="freddy-fazbear-the-fuck-reaction-meme">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-de-freddy-que-carajos.png" width="50" alt="freddy-fazbear-the-fuck-reaction-meme">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-de-freddy-que-carajos.png" width="100" alt="freddy-fazbear-the-fuck-reaction-meme">
 ```
 
 ---

@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
-Actualmente hay **6** elementos en esta seccion.
+Actualmente hay **8** elementos en esta seccion.
 
 ---
 
@@ -170,6 +170,62 @@ Actualmente hay **6** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/bonnie-el-conejo-meme.png" width="100" alt="bonnie-fnaf-meme">
+```
+
+---
+
+### Pepe-con-cara-de-asco (`pepe-cringe`)
+
+**Etiquetas:** `pepe`, `frog`, `meme`, `emote`, `twitch`, `discord`, `disgusted`, `eww`, `cringe`, `face`, `reaction`, `green`, `rana`, `asco`, `mueca`, `dientes`, `incomodo`, `reacccion`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-cringe.png" width="50" alt="Disgusted-Pepe"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-cringe.png" width="30" alt="Disgusted-Pepe">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-cringe.png" width="50" alt="Disgusted-Pepe">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/pepe-cringe.png" width="100" alt="Disgusted-Pepe">
+```
+
+---
+
+### chica-perro-kemonomimi-gritando-con-rabia-extrema (`angry-dog-noises-anime-reaction-meme`)
+
+**Etiquetas:** `angry-dog-noises`, `dog-girl`, `kemonomimi`, `meme`, `reaction`, `rage`, `screaming`, `furia`, `enojada`, `berrinche`, `discord`, `sticker`, `emote`, `manga`, `weeb`, `otaku`, `grito`, `rosado`, `anime`, `manga`, `baka`, `angry`, `mad`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/angry-dog-noises-anime-reaction-meme.png" width="50" alt="angry-anime-girl-screaming-reaction-emote"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/angry-dog-noises-anime-reaction-meme.png" width="30" alt="angry-anime-girl-screaming-reaction-emote">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/angry-dog-noises-anime-reaction-meme.png" width="50" alt="angry-anime-girl-screaming-reaction-emote">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/angry-dog-noises-anime-reaction-meme.png" width="100" alt="angry-anime-girl-screaming-reaction-emote">
 ```
 
 ---
