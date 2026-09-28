@@ -947,6 +947,38 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-signo-de-exclamacion-en-circulo-rojo.png",
       "registrado_en": "2026-09-28T10:24:25.161253"
+    },
+    {
+      "id": "icono-de-marca-de-verificacion-en-cuadrado-verde",
+      "titulo": "icono-de-verificacion-blanco-sobre-fondo-cuadrado-verde-con-bordes-redondeados",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png",
+      "alt": "green-square-check-mark-success-icon",
+      "tags": [
+        "exito",
+        "correcto",
+        "aprobado",
+        "verificado",
+        "si",
+        "completado",
+        "visto",
+        "ok",
+        "icono",
+        "success",
+        "correct",
+        "approved",
+        "verified",
+        "yes",
+        "completed",
+        "checkmark",
+        "ok",
+        "icon",
+        "face",
+        "emoji"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png",
+      "registrado_en": "2026-09-28T10:30:57.064111"
     }
   ]
 }
