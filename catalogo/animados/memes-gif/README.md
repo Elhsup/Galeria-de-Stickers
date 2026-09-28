@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **13** elementos en esta seccion.
+Actualmente hay **14** elementos en esta seccion.
 
 ---
 
@@ -366,6 +366,34 @@ Actualmente hay **13** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/bloque-de-tierra-minecraft.png" width="100" alt="Minecraft-Block">
+```
+
+---
+
+### sirena-de-emergencia-brillante-de-color-rojo (`icono-de-sirena-de-policia-o-luz-de-emergencia-roja`)
+
+**Etiquetas:** `sirena`, `emergencia`, `alerta`, `policia`, `twitch`, `emote`, `modcheck`, `peligro`, `atencion`, `rojo`, `siren`, `emergency`, `alert`, `police`, `twitch`, `emote`, `modcheck`, `danger`, `attention`, `red`, `face`, `emoji`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png" width="50" alt="red-police-siren-emergency-light-icon"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png" width="30" alt="red-police-siren-emergency-light-icon">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png" width="50" alt="red-police-siren-emergency-light-icon">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png" width="100" alt="red-police-siren-emergency-light-icon">
 ```
 
 ---

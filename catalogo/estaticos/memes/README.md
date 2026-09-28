@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **14** elementos en esta seccion.
+Actualmente hay **16** elementos en esta seccion.
 
 ---
 
@@ -394,6 +394,62 @@ Actualmente hay **14** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/meme-de-freddy-que-carajos.png" width="100" alt="freddy-fazbear-the-fuck-reaction-meme">
+```
+
+---
+
+### icono-circular-de-advertencia-con-signo-de-exclamacion-blanco (`icono-de-signo-de-exclamacion-en-circulo-rojo`)
+
+**Etiquetas:** `advertencia`, `alerta`, `error`, `notificacion`, `peligro`, `discord`, `caida`, `problema`, `atencion`, `icono`, `warning`, `alert`, `error`, `notification`, `danger`, `discord`, `down`, `problem`, `attention`, `icon`, `face`, `emoji`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-signo-de-exclamacion-en-circulo-rojo.png" width="50" alt="white-exclamation-mark-inside-red-circle-error-icon"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-signo-de-exclamacion-en-circulo-rojo.png" width="30" alt="white-exclamation-mark-inside-red-circle-error-icon">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-signo-de-exclamacion-en-circulo-rojo.png" width="50" alt="white-exclamation-mark-inside-red-circle-error-icon">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-signo-de-exclamacion-en-circulo-rojo.png" width="100" alt="white-exclamation-mark-inside-red-circle-error-icon">
+```
+
+---
+
+### icono-de-verificacion-blanco-sobre-fondo-cuadrado-verde-con-bordes-redondeados (`icono-de-marca-de-verificacion-en-cuadrado-verde`)
+
+**Etiquetas:** `exito`, `correcto`, `aprobado`, `verificado`, `si`, `completado`, `visto`, `ok`, `icono`, `success`, `correct`, `approved`, `verified`, `yes`, `completed`, `checkmark`, `ok`, `icon`, `face`, `emoji`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png" width="50" alt="green-square-check-mark-success-icon"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png" width="30" alt="green-square-check-mark-success-icon">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png" width="50" alt="green-square-check-mark-success-icon">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png" width="100" alt="green-square-check-mark-success-icon">
 ```
 
 ---
