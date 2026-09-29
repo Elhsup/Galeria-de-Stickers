@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **14** elementos en esta seccion.
+Actualmente hay **18** elementos en esta seccion.
 
 ---
 
@@ -394,6 +394,118 @@ Actualmente hay **14** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png" width="100" alt="red-police-siren-emergency-light-icon">
+```
+
+---
+
+### rebanada-de-pan-tostado-animada-en-bucle-giratorio (`pan-tostado-girando`)
+
+**Etiquetas:** `pan`, `tostada`, `tostado`, `comida`, `animacion`, `gif`, `girando`, `vuelta`, `rotacion`, `desayuno`, `bread`, `toast`, `toasty`, `food`, `animation`, `spinning`, `rotating`, `loop`, `breakfast`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pan-tostado-girando.png" width="50" alt="spinning-toast"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pan-tostado-girando.png" width="30" alt="spinning-toast">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pan-tostado-girando.png" width="50" alt="spinning-toast">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pan-tostado-girando.png" width="100" alt="spinning-toast">
+```
+
+---
+
+### pez-verde-de-bob-esponja-volteando-disimuladamente-a-ambos-lados (`meme-del-pez-de-bob-esponja-mirando-a-los-lados`)
+
+**Etiquetas:** `bob-esponja`, `pez`, `meme`, `gif`, `modcheck`, `mirando`, `disimulo`, `voltear`, `reaccion`, `discord`, `twitch`, `pez-verde`, `spongebob`, `fish`, `modcheck`, `looking`, `reaction`, `green-fish`, `looking-away`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-del-pez-de-bob-esponja-mirando-a-los-lados.png" width="50" alt="spongebob-fish-looking-back-and-forth-meme"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-del-pez-de-bob-esponja-mirando-a-los-lados.png" width="30" alt="spongebob-fish-looking-back-and-forth-meme">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-del-pez-de-bob-esponja-mirando-a-los-lados.png" width="50" alt="spongebob-fish-looking-back-and-forth-meme">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/meme-del-pez-de-bob-esponja-mirando-a-los-lados.png" width="100" alt="spongebob-fish-looking-back-and-forth-meme">
+```
+
+---
+
+### rueda-dentada-gris-en-movimiento-rotatorio-continuo (`engranaje-girando`)
+
+**Etiquetas:** `engranaje`, `rueda-dentada`, `maquinaria`, `proceso`, `configuracion`, `girar`, `rotacion`, `bucle`, `animacion`, `gif`, `gris`, `tecnico`, `industrial`, `gear`, `cogwheel`, `machinery`, `process`, `settings`, `spin`, `rotating`, `loop`, `animation`, `gray`, `technical`, `industrial`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/engranaje-girando.png" width="50" alt="spinning-gear"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/engranaje-girando.png" width="30" alt="spinning-gear">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/engranaje-girando.png" width="50" alt="spinning-gear">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/engranaje-girando.png" width="100" alt="spinning-gear">
+```
+
+---
+
+### moneda-de-oro-pixelada-en-movimiento-de-rotacion-continuo (`moneda-de-mario-bros-girando`)
+
+**Etiquetas:** `moneda`, `oro`, `mario-bros`, `nintendo`, `pixel-art`, `retro`, `videojuego`, `girando`, `rotacion`, `animacion`, `gif`, `bucle`, `dinero`, `item`, `coin`, `gold`, `video-game`, `spinning`, `rotating`, `animation`, `loop`, `money`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/moneda-de-mario-bros-girando.png" width="50" alt="spinning-mario-coin"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/moneda-de-mario-bros-girando.png" width="30" alt="spinning-mario-coin">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/moneda-de-mario-bros-girando.png" width="50" alt="spinning-mario-coin">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/moneda-de-mario-bros-girando.png" width="100" alt="spinning-mario-coin">
 ```
 
 ---

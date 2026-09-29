@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **16** elementos en esta seccion.
+Actualmente hay **17** elementos en esta seccion.
 
 ---
 
@@ -450,6 +450,34 @@ Actualmente hay **16** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/icono-de-marca-de-verificacion-en-cuadrado-verde.png" width="100" alt="green-square-check-mark-success-icon">
+```
+
+---
+
+### meme-de-pepe-la-rana-con-expresion-maliciosa-o-planeando-algo (`pepe-la-rana-pensando`)
+
+**Etiquetas:** `rana`, `pepe`, `meme`, `verde`, `plan`, `sospechoso`, `mirada`, `frog`, `pepe`, `meme`, `green`, `scheming`, `suspicious`, `look`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png" width="50" alt="pepe-the-frog-scheming"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png" width="30" alt="pepe-the-frog-scheming">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png" width="50" alt="pepe-the-frog-scheming">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png" width="100" alt="pepe-the-frog-scheming">
 ```
 
 ---
