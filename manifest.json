@@ -1039,6 +1039,37 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png",
       "registrado_en": "2026-09-29T11:09:01.540418"
+    },
+    {
+      "id": "pan-tostado-girando",
+      "titulo": "rebanada-de-pan-tostado-animada-en-bucle-giratorio",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/pan-tostado-girando.png",
+      "alt": "spinning-toast",
+      "tags": [
+        "pan",
+        "tostada",
+        "tostado",
+        "comida",
+        "animacion",
+        "gif",
+        "girando",
+        "vuelta",
+        "rotacion",
+        "desayuno",
+        "bread",
+        "toast",
+        "toasty",
+        "food",
+        "animation",
+        "spinning",
+        "rotating",
+        "loop",
+        "breakfast"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/pan-tostado-girando.png",
+      "registrado_en": "2026-09-29T11:15:20.172248"
     }
   ]
 }
