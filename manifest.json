@@ -1013,6 +1013,32 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-sirena-de-policia-o-luz-de-emergencia-roja.png",
       "registrado_en": "2026-09-28T10:35:43.041480"
+    },
+    {
+      "id": "pepe-la-rana-pensando",
+      "titulo": "meme-de-pepe-la-rana-con-expresion-maliciosa-o-planeando-algo",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/pepe-la-rana-pensando.png",
+      "alt": "pepe-the-frog-scheming",
+      "tags": [
+        "rana",
+        "pepe",
+        "meme",
+        "verde",
+        "plan",
+        "sospechoso",
+        "mirada",
+        "frog",
+        "pepe",
+        "meme",
+        "green",
+        "scheming",
+        "suspicious",
+        "look"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png",
+      "registrado_en": "2026-09-29T11:09:01.540418"
     }
   ]
 }
