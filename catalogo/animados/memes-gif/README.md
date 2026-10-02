@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **18** elementos en esta seccion.
+Actualmente hay **19** elementos en esta seccion.
 
 ---
 
@@ -506,6 +506,34 @@ Actualmente hay **18** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/moneda-de-mario-bros-girando.png" width="100" alt="spinning-mario-coin">
+```
+
+---
+
+### señal-de-advertencia (`gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb`)
+
+**Etiquetas:** `gif`, `animado`, `psicodélico`, `rgb`, `arcoíris`, `parpadeante`, `luz-estroboscópica`, `advertencia`, `peligro`, `alerta`, `cambio-de-color`, `efecto-glitch`, `animated`, `psychedelic`, `rainbow`, `flashing`, `strobe-light`, `warning`, `danger`, `alert`, `color-changing`, `glitch-effect`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb.png" width="50" alt="animated-ambox-warning-psycho-gif-rgb-shifting-colors"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb.png" width="30" alt="animated-ambox-warning-psycho-gif-rgb-shifting-colors">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb.png" width="50" alt="animated-ambox-warning-psycho-gif-rgb-shifting-colors">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb.png" width="100" alt="animated-ambox-warning-psycho-gif-rgb-shifting-colors">
 ```
 
 ---
