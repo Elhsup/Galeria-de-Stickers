@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **17** elementos en esta seccion.
+Actualmente hay **19** elementos en esta seccion.
 
 ---
 
@@ -478,6 +478,62 @@ Actualmente hay **17** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/pepe-la-rana-pensando.png" width="100" alt="pepe-the-frog-scheming">
+```
+
+---
+
+### icono-libro-verificado (`libro-con-marca-de-verificaci-n`)
+
+**Etiquetas:** `libro`, `check`, `verificación`, `aprobado`, `educación`, `lectura`, `correcto`, `gris`, `icono`, `book`, `checkmark`, `verification`, `approved`, `education`, `reading`, `correct`, `grey`, `icon`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png" width="50" alt="book-with-checkmark"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png" width="30" alt="book-with-checkmark">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png" width="50" alt="book-with-checkmark">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png" width="100" alt="book-with-checkmark">
+```
+
+---
+
+### icono-reportar-among-us (`bot-n-de-reportar-among-us`)
+
+**Etiquetas:** `among-us`, `reportar`, `megafono`, `juego`, `tripulante`, `impostor`, `alerta`, `reunion`, `boton`, `emergencia`, `report`, `megaphone`, `game`, `crewmate`, `imposter`, `alert`, `meeting`, `button`, `emergency`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png" width="50" alt="among-us-report-button"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png" width="30" alt="among-us-report-button">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png" width="50" alt="among-us-report-button">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png" width="100" alt="among-us-report-button">
 ```
 
 ---
