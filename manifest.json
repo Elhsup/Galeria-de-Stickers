@@ -1312,6 +1312,37 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png",
       "registrado_en": "2026-10-04T18:01:46.546478"
+    },
+    {
+      "id": "bot-n-de-reportar-among-us",
+      "titulo": "icono-reportar-among-us",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/bot-n-de-reportar-among-us.png",
+      "alt": "among-us-report-button",
+      "tags": [
+        "among-us",
+        "reportar",
+        "megafono",
+        "juego",
+        "tripulante",
+        "impostor",
+        "alerta",
+        "reunion",
+        "boton",
+        "emergencia",
+        "report",
+        "megaphone",
+        "game",
+        "crewmate",
+        "imposter",
+        "alert",
+        "meeting",
+        "button",
+        "emergency"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png",
+      "registrado_en": "2026-10-04T18:06:20.016562"
     }
   ]
 }
