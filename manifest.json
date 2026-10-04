@@ -1282,6 +1282,36 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png",
       "registrado_en": "2026-10-03T20:00:45.041464"
+    },
+    {
+      "id": "libro-con-marca-de-verificaci-n",
+      "titulo": "icono-libro-verificado",
+      "categoria": "estaticos/memes",
+      "animado": false,
+      "archivo": "imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png",
+      "alt": "book-with-checkmark",
+      "tags": [
+        "libro",
+        "check",
+        "verificación",
+        "aprobado",
+        "educación",
+        "lectura",
+        "correcto",
+        "gris",
+        "icono",
+        "book",
+        "checkmark",
+        "verification",
+        "approved",
+        "education",
+        "reading",
+        "correct",
+        "grey",
+        "icon"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/libro-con-marca-de-verificaci-n.png",
+      "registrado_en": "2026-10-04T18:01:46.546478"
     }
   ]
 }
