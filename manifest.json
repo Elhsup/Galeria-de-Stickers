@@ -1245,6 +1245,43 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cuadrado-rojo-animado-transformandose-en-x-de-cancelacion.png",
       "registrado_en": "2026-10-03T19:57:16.285319"
+    },
+    {
+      "id": "icono-de-carga-clasico-rueda-espera",
+      "titulo": "carga-gris",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png",
+      "alt": "classic-loading-spinner-icon-buffer",
+      "tags": [
+        "carga",
+        "cargar",
+        "espera",
+        "proceso",
+        "bucle",
+        "rotacion",
+        "interfaz",
+        "ui",
+        "ux",
+        "gris",
+        "clasico",
+        "rueda",
+        "spinner",
+        "loading",
+        "load",
+        "wait",
+        "progress",
+        "loop",
+        "rotation",
+        "grey",
+        "classic",
+        "wheel",
+        "buffer",
+        "pending",
+        "icon"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png",
+      "registrado_en": "2026-10-03T20:00:45.041464"
     }
   ]
 }
