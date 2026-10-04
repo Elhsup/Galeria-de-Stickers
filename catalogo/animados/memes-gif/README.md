@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **19** elementos en esta seccion.
+Actualmente hay **21** elementos en esta seccion.
 
 ---
 
@@ -534,6 +534,62 @@ Actualmente hay **19** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/gif-animado-de-senal-de-advertencia-psicodelica-cambiante-rgb.png" width="100" alt="animated-ambox-warning-psycho-gif-rgb-shifting-colors">
+```
+
+---
+
+### cuadrado-rojo-con-esquinas-redondeadas-deformandose-hasta-formar-una-X-de-cancelacion (`cuadrado-rojo-animado-transformandose-en-x-de-cancelacion`)
+
+**Etiquetas:** `cuadrado`, `rojo`, `bloque`, `animacion`, `interfaz`, `cruz`, `discord`, `error`, `emoji`, `equis`, `cancelacion`, `denegado`, `fallido`, `square`, `red`, `block`, `animation`, `ui`, `cross`, `failure`, `cancel`, `x-mark`, `denied`, `geometric`, `icon`, `x`, `x`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cuadrado-rojo-animado-transformandose-en-x-de-cancelacion.png" width="50" alt="animated-red-square-turning-into-cancel-x"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cuadrado-rojo-animado-transformandose-en-x-de-cancelacion.png" width="30" alt="animated-red-square-turning-into-cancel-x">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cuadrado-rojo-animado-transformandose-en-x-de-cancelacion.png" width="50" alt="animated-red-square-turning-into-cancel-x">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cuadrado-rojo-animado-transformandose-en-x-de-cancelacion.png" width="100" alt="animated-red-square-turning-into-cancel-x">
+```
+
+---
+
+### carga-gris (`icono-de-carga-clasico-rueda-espera`)
+
+**Etiquetas:** `carga`, `cargar`, `espera`, `proceso`, `bucle`, `rotacion`, `interfaz`, `ui`, `ux`, `gris`, `clasico`, `rueda`, `spinner`, `loading`, `load`, `wait`, `progress`, `loop`, `rotation`, `grey`, `classic`, `wheel`, `buffer`, `pending`, `icon`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png" width="50" alt="classic-loading-spinner-icon-buffer"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png" width="30" alt="classic-loading-spinner-icon-buffer">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png" width="50" alt="classic-loading-spinner-icon-buffer">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png" width="100" alt="classic-loading-spinner-icon-buffer">
 ```
 
 ---
