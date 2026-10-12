@@ -7,17 +7,17 @@ Haz clic en el boton de copiar del bloque HTML que prefieras y pegalo en tu perf
 
 ## Categorias y Secciones
 
-*   **[Animados / Memes-Gif](animados/memes-gif/README.md)** (21 elementos)
+*   **[Animados / Memes-Gif](animados/memes-gif/README.md)** (22 elementos)
 *   **[Animados / Reacciones-Gif](animados/reacciones-gif/README.md)** (2 elementos)
-*   **[Estaticos / Memes](estaticos/memes/README.md)** (19 elementos)
-*   **[Estaticos / Programacion](estaticos/programacion/README.md)** (3 elementos)
-*   **[Estaticos / Reacciones](estaticos/reacciones/README.md)** (8 elementos)
+*   **[Estaticos / Memes](estaticos/memes/README.md)** (20 elementos)
+*   **[Estaticos / Programacion](estaticos/programacion/README.md)** (4 elementos)
+*   **[Estaticos / Reacciones](estaticos/reacciones/README.md)** (9 elementos)
 
 
 ---
 
 ## Resumen del Proyecto
-*   **Total de Elementos Registrados:** 53
-*   **Ultima actualizacion:** 04/10/2026 18:09:59
+*   **Total de Elementos Registrados:** 57
+*   **Ultima actualizacion:** 12/10/2026 15:13:18
 
 [ Volver al Inicio del Repositorio](../README.md)

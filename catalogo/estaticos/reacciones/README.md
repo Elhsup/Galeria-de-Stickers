@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/reacciones`.
 
-Actualmente hay **8** elementos en esta seccion.
+Actualmente hay **9** elementos en esta seccion.
 
 ---
 
@@ -226,6 +226,34 @@ Actualmente hay **8** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/angry-dog-noises-anime-reaction-meme.png" width="100" alt="angry-anime-girl-screaming-reaction-emote">
+```
+
+---
+
+### elon-musk-con-auriculares-haciendo-un-gesto-mientras-fuma-un-puro (`elon-musk-fumando`)
+
+**Etiquetas:** `elon-musk`, `meme`, `joe-rogan`, `smoking`, `weed`, `tesla`, `space`, `technology`, `thoughtful`, `funny`, `fumando`, `marihuana`, `tesla`, `espacio`, `tecnologia`, `pensativo`, `gracioso`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/elon-musk-fumando.png" width="50" alt="elon-musk-smoking"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/elon-musk-fumando.png" width="30" alt="elon-musk-smoking">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/elon-musk-fumando.png" width="50" alt="elon-musk-smoking">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/reacciones/elon-musk-fumando.png" width="100" alt="elon-musk-smoking">
 ```
 
 ---

@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **21** elementos en esta seccion.
+Actualmente hay **22** elementos en esta seccion.
 
 ---
 
@@ -590,6 +590,34 @@ Actualmente hay **21** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/icono-de-carga-clasico-rueda-espera.png" width="100" alt="classic-loading-spinner-icon-buffer">
+```
+
+---
+
+### emoji-de-cono-de-fiesta-rojo-lanzando-serpentinas-y-confeti (`cono-de-fiesta`)
+
+**Etiquetas:** `emoji`, `fiesta`, `celebracion`, `cumpleaños`, `confeti`, `serpentina`, `sorpresa`, `felicitaciones`, `cono`, `exito`, `party`, `celebration`, `birthday`, `confetti`, `streamer`, `surprise`, `congratulations`, `popper`, `success`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cono-de-fiesta.png" width="50" alt="party-popper"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cono-de-fiesta.png" width="30" alt="party-popper">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cono-de-fiesta.png" width="50" alt="party-popper">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cono-de-fiesta.png" width="100" alt="party-popper">
 ```
 
 ---

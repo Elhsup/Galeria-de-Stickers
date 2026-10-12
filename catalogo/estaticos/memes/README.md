@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **19** elementos en esta seccion.
+Actualmente hay **20** elementos en esta seccion.
 
 ---
 
@@ -534,6 +534,34 @@ Actualmente hay **19** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/bot-n-de-reportar-among-us.png" width="100" alt="among-us-report-button">
+```
+
+---
+
+### letras-katakana-gogogo-de-jojo-con-degradado-morado-y-rosa (`onomatopeya-jojo-amenazante`)
+
+**Etiquetas:** `jojo`, `anime`, `manga`, `menacing`, `gogogo`, `onomatopoeia`, `meme`, `tension`, `danger`, `japanese`, `amenazante`, `onomatopeya`, `tension`, `peligro`, `japones`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/onomatopeya-jojo-amenazante.png" width="50" alt="jojo-menacing-onomatopoeia"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/onomatopeya-jojo-amenazante.png" width="30" alt="jojo-menacing-onomatopoeia">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/onomatopeya-jojo-amenazante.png" width="50" alt="jojo-menacing-onomatopoeia">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/onomatopeya-jojo-amenazante.png" width="100" alt="jojo-menacing-onomatopoeia">
 ```
 
 ---
