@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `animados/memes-gif`.
 
-Actualmente hay **22** elementos en esta seccion.
+Actualmente hay **23** elementos en esta seccion.
 
 ---
 
@@ -618,6 +618,34 @@ Actualmente hay **22** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/cono-de-fiesta.png" width="100" alt="party-popper">
+```
+
+---
+
+### emoji-animado-de-dos-manos-aplaudiendo-en-bucle (`animacion-manos-aplaudiendo`)
+
+**Etiquetas:** `aplaudiendo`, `animacion`, `bucle`, `movimiento`, `gif`, `palmas`, `ovacion`, `felicitacion`, `bravo`, `celebrando`, `lapping`, `animation`, `loop`, `motion`, `applause`, `ovation`, `congratulations`, `bravo`, `celebrating`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png" width="50" alt="clapping-hands-gif"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png" width="30" alt="clapping-hands-gif">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png" width="50" alt="clapping-hands-gif">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png" width="100" alt="clapping-hands-gif">
 ```
 
 ---

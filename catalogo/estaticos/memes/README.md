@@ -2,7 +2,7 @@
 
 Seccion oficial para elementos de tipo: `estaticos/memes`.
 
-Actualmente hay **20** elementos en esta seccion.
+Actualmente hay **21** elementos en esta seccion.
 
 ---
 
@@ -562,6 +562,34 @@ Actualmente hay **20** elementos en esta seccion.
 
 ```html
 <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/onomatopeya-jojo-amenazante.png" width="100" alt="jojo-menacing-onomatopoeia">
+```
+
+---
+
+### renderizado-isométrico (`profundidad-3d-habitaci-n-bloques-minecraft`)
+
+**Etiquetas:** `minecraft`, `3d`, `profundidad`, `perspectiva`, `habitacion`, `tunel`, `sombreado`, `degradado`, `monocromo`, `cubos`, `diseño`, `ilusion-visual`, `depth`, `perspective`, `room`, `tunnel`, `shading`, `gradient`, `monochrome`, `cubes`, `design`, `visual-illusion`
+
+| Vista Previa |
+| :---: |
+| <img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/profundidad-3d-habitaci-n-bloques-minecraft.png" width="50" alt="minecraft-3d-illusion-room-render"> |
+
+**Tamaño 30px (Mini):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/profundidad-3d-habitaci-n-bloques-minecraft.png" width="30" alt="minecraft-3d-illusion-room-render">
+```
+
+**Tamaño 50px (Medio):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/profundidad-3d-habitaci-n-bloques-minecraft.png" width="50" alt="minecraft-3d-illusion-room-render">
+```
+
+**Tamaño 100px (Grande):**
+
+```html
+<img src="https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/profundidad-3d-habitaci-n-bloques-minecraft.png" width="100" alt="minecraft-3d-illusion-room-render">
 ```
 
 ---
