@@ -1527,6 +1527,37 @@
       ],
       "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/estaticos/memes/profundidad-3d-habitaci-n-bloques-minecraft.png",
       "registrado_en": "2026-10-14T21:18:23.918745"
+    },
+    {
+      "id": "animacion-manos-aplaudiendo",
+      "titulo": "emoji-animado-de-dos-manos-aplaudiendo-en-bucle",
+      "categoria": "animados/memes-gif",
+      "animado": true,
+      "archivo": "imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png",
+      "alt": "clapping-hands-gif",
+      "tags": [
+        "aplaudiendo",
+        "animacion",
+        "bucle",
+        "movimiento",
+        "gif",
+        "palmas",
+        "ovacion",
+        "felicitacion",
+        "bravo",
+        "celebrando",
+        "lapping",
+        "animation",
+        "loop",
+        "motion",
+        "applause",
+        "ovation",
+        "congratulations",
+        "bravo",
+        "celebrating"
+      ],
+      "url_raw": "https://raw.githubusercontent.com/Elhsup/Galeria-de-Stickers/main/imagenes/animados/memes-gif/animacion-manos-aplaudiendo.png",
+      "registrado_en": "2026-10-14T21:23:05.769343"
     }
   ]
 }
